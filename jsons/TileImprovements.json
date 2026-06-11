@@ -7,6 +7,7 @@
     "production": 1,
     "techRequired": "Mathematics",
     "uniques": ["[+1 Gold] <after discovering [Guilds]",
+      "[+1 Gold] <after discovering [Economics]>",
       "[+1 Production] <after discovering [Machinery]>",
       "Gives a defensive bonus of [50]%",
       "Can be built outside your borders",
@@ -14,7 +15,7 @@
   },
   {
     "name": "Chapel",
-    "uniqueTo"; "Canudos",
+    "uniqueTo": "Canudos",
     "terrainsCanBeBuiltOn": ["Desert","Plains"],
     "turnsToBuild": 7,
     "food": 1,
