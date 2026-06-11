@@ -1,0 +1,118 @@
+
+game.png
+size: 512, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Brazil
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Canudos
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Equador
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Grão-Pará
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Juliana
+  rotate: false
+  xy: 145, 214
+  size: 147,185
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Malês
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Maranhão
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Palmares
+  rotate: false
+  xy: 0, 0
+  size: 200, 170
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Black Lancer
+  rotate: false
+  xy: 304, 201
+  size: 173, 138
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Capoeirista
+  rotate: false
+  xy: 218, 0
+  size: 0, 0
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pracinha
+  rotate: false
+  xy: 0, 0
+  size: 0, 0
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sertanejo
+  rotate: false
+  xy: 0, 0
+  size: 0, 0
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Quitandeira
+  rotate: false
+  xy: 0, 0
+  size: 0, 0
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/BrewPub
+  rotate: false
+  xy: 58, 358
+  size: 104, 115
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Chapel
+  rotate: false
+  xy: 0, 0
+  size: 0, 0
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Mocambo
+  rotate: false
+  xy: 0, 172
+  size: 140, 181
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
