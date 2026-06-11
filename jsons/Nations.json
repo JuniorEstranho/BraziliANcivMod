@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Juliana",
+    "leaderName": "David Canabarro",
+    "adjective": ["Catarinense"],
+    "startBias": ["Plains"],
+    "preferredVictoryType": "Cultural",
+    "personality": "David Canabarro",
+
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+
+    "declaringWar": "It's getting harder and harder to put up with you. I'll have to destroy you for the good of the Republic!",
+    "attacked": "This will not be the end. We will resist!",
+    "denounced": "You're confusing my respect with fear!",
+    "defeated": "You defeated me, but you will be haunted by the tears of your victims!",
+    "introduction": "Good morning, I am David Canabarro, General and leader of the Juliana Republic. We seek stability with our neighbors.",
+
+    "neutralHello": "Good day to you.",
+    "hateHello": "Oh, it's you.",
+
+    "tradeRequest": "It will certainly be mutually beneficial to both us.",
+
+    "outerColor": [255, 240, 255],
+    "innerColor": [16, 16, 16],
+    "favoredReligion": "Christianity",
+    "uniqueName": "",
+    "uniques": [""],
+    "cities": ["Laguna","Desterro","Blumenau","Itajahy","Tijucas","São Miguel","São José","Tubarão","Joinville","São Francisco do Sul","Paraty",
+      "Imarui","Camboriú","Porto Belo","Biguaçu","Palhoça","Brusque","Palmas"]
+  },
+  {
+    "name": "Palmares",
+    "leaderName": "Zumbi",
+    "adjective": ["Quilombola"],
+    "startBias": ["Jungle"],
+    "preferredVictoryType": "Diplomatic",
+    "personality": "Zumbi",
+
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+
+    "declaringWar": "I couldn't help but notice your audacity in turning against us. Quilombolas we will destroy the enemy!",
+    "attacked": "These lands will never be yours. You will achieve nothing with this aggression!",
+    "denounced": "I'm interested in what you're going to do after that.",
+    "defeated": "Your resentment echoes in the destroyed ruins of the mocambos. You may have won this war in name, but I won it in spirit!",
+    "introduction": "Welcome to the Quilombo dos Palmares, where enslaved people and deserters find refuge amidst the chaos. Tell me about yourself.",
+
+    "neutralHello": "Welcome.",
+    "hateHello": "It's you.",
+
+    "tradeRequest": "I've been wondering if this is possible between our peoples.",
+
+    "outerColor": [34, 104, 42],
+    "innerColor": [66, 195, 82],
+    "favoredReligion": "Christianity",
+    "uniqueName": "",
+    "uniques": [""],
+    "cities": ["Macaco","Andalaquituxe","Subupira","Dambrapanga","Osenga","Amaro","Zambi","Tabocas","Gongoro","Aca Inene","Acotirene","Aqualtene"]
+  }
+]
