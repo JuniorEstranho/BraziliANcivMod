@@ -1,10 +1,41 @@
 [
   {
+    "name": "Canudos",
+    "leaderName": "Antônio Conselheiro",
+    "adjective": ["Canudos"]
+    "startBias": ["Desert"],
+    "preferredVictoryType": "Diplomatic",
+    "personality": "Antônio Conselheiro",
+
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+
+    "declaringWar": "For the sake of faith and the honor of the poorest and weakest, you will be ordered to leave!",
+    "attacked": "First of all, understand that you are attacking a poor and defenseless people, right?",
+    "denounced": "Keep going, nobody wants to see how it ends.",
+    "defeated": "Ah yes, it's done. You did it. Good luck.",
+    "introduction": "Blessings to you and your people. I am Antônio Conselheiro, spiritual leader of this suffering people.",
+
+    "neutralHello": "I wish you peace.",
+
+    "tradeRequest": "I am certain that tomorrow's blessings will materialize by accepting this agreement.",
+
+    "outerColor": [85, 27, 23],
+    "innerColor": [245, 245, 245],
+    "favoredReligion": "Christianity",
+    "uniqueName": "O Arraial",
+    "uniques": ["Major-State",
+      "[+15]% Strength <when fighting in [Friendly Land] tiles>",
+      "[+1 Production] from every [Farm]",
+      "City-State territory always counts as friendly territory"],
+    "cities": ["Canudos"]
+  },
+  {
     "name": "Juliana",
     "leaderName": "David Canabarro",
     "adjective": ["Catarinense"],
     "startBias": ["Plains"],
-    "preferredVictoryType": "Cultural",
+    "preferredVictoryType": "Domination",
     "personality": "David Canabarro",
 
     "startIntroPart1": "",
@@ -21,13 +52,44 @@
 
     "tradeRequest": "It will certainly be mutually beneficial to both us.",
 
-    "outerColor": [255, 240, 255],
+    "outerColor": [23, 146, 23],
     "innerColor": [16, 16, 16],
     "favoredReligion": "Christianity",
-    "uniqueName": "",
-    "uniques": [""],
+    "uniqueName": "Equality, Freedom and Humanity",
+    "uniques": ["Free Social Policy <upon entering in a Golden Age>"],
     "cities": ["Laguna","Desterro","Blumenau","Itajahy","Tijucas","São Miguel","São José","Tubarão","Joinville","São Francisco do Sul","Paraty",
       "Imarui","Camboriú","Porto Belo","Biguaçu","Palhoça","Brusque","Palmas"]
+  },
+  {
+    "name": "Malês",
+    "leaderName": "Pacífico Licutan",
+    "adjective": ["Malês"],
+    "preferredVictoryType": "Diplomatic",
+    "personality": "Pacífico Licutan",
+
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+
+    "declaringWar": "I heard that some of my men are rebelling near your border, is that true?",
+    "attacked": "If that's the case, we'll go to war; we will not be slaves again!",
+    "denounced": "I will have to take drastic measures.",
+    "defeated": "With this fate, I have only one wish: that God forgives you for your choices.",
+    "introduction": "May God be with you, I am Pacífico Licutan. The Malês wish you peace.",
+
+    "neutralHello": "Greetings.",
+    "hateHello": "Oh, it's you.",
+
+    "tradeRequest": "This needs to be possible. We'll make sure you don't regret it.",
+
+    "outerColor": [54, 134, 177],
+    "innerColor": [255, 255, 255],
+    "favoredReligion": "Islam",
+    "uniqueName": "Levant in America",
+    "uniques": ["[+50]% [Faith] [in all cities] <after enhancing a religion>",
+      "Gain a free [Mosque] [in capital] <after founding a religion>",
+      "[Quitandeira] is earned [50]% faster",
+      "\"Borrows\" city names from other civilizations in the game"],
+    "cities": ["Licutan's Mosque"]
   },
   {
     "name": "Palmares",
@@ -51,11 +113,15 @@
 
     "tradeRequest": "I've been wondering if this is possible between our peoples.",
 
-    "outerColor": [34, 104, 42],
-    "innerColor": [66, 195, 82],
+    "outerColor": [46, 90, 23],
+    "innerColor": [82, 230, 0],
     "favoredReligion": "Christianity",
-    "uniqueName": "",
-    "uniques": [""],
+    "uniqueName": "Angola Janga",
+    "uniques": ["Can build [all] improvements at a [+25]% rate",
+      "Free [Worker] appears <upon founding a city>",
+      "[-25]% enemy spy effectiveness [in all city]",
+      "City-State territory always counts as friendly territory",
+      "Cannot build [Worker] units"],
     "cities": ["Macaco","Andalaquituxe","Subupira","Dambrapanga","Osenga","Amaro","Zambi","Tabocas","Gongoro","Aca Inene","Acotirene","Aqualtene"]
   }
 ]
