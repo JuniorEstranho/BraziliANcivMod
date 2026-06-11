@@ -70,11 +70,11 @@ UnitIcons/Black Lancer
 UnitIcons/Capoeirista
   rotate: false
   xy: 218, 0
-  size: 0, 0
+  size: 182, 199
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Pracinha
+UnitIcons/Levantist
   rotate: false
   xy: 0, 0
   size: 0, 0
@@ -88,13 +88,6 @@ UnitIcons/Sertanejo
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Quitandeira
-  rotate: false
-  xy: 0, 0
-  size: 0, 0
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 BuildingIcons/BrewPub
   rotate: false
   xy: 58, 358
@@ -102,7 +95,7 @@ BuildingIcons/BrewPub
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Chapel
+BuildingIcons/Quitanda
   rotate: false
   xy: 0, 0
   size: 0, 0
