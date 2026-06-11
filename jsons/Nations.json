@@ -56,7 +56,7 @@
     "innerColor": [16, 16, 16],
     "favoredReligion": "Christianity",
     "uniqueName": "Equality, Freedom and Humanity",
-    "uniques": ["Free Social Policy <upon entering in a Golden Age>"],
+    "uniques": ["Free Social Policy <upon entering a Golden Age>"],
     "cities": ["Laguna","Desterro","Blumenau","Itajahy","Tijucas","São Miguel","São José","Tubarão","Joinville","São Francisco do Sul","Paraty",
       "Imarui","Camboriú","Porto Belo","Biguaçu","Palhoça","Brusque","Palmas"]
   },
@@ -87,7 +87,7 @@
     "uniqueName": "Levant in America",
     "uniques": ["[+50]% [Faith] [in all cities] <after enhancing a religion>",
       "Gain a free [Mosque] [in capital] <after founding a religion>",
-      "[Quitandeira] is earned [50]% faster",
+      "[Great Merchant] is earned [50]% faster",
       "\"Borrows\" city names from other civilizations in the game"],
     "cities": ["Licutan's Mosque"]
   },
@@ -119,8 +119,7 @@
     "uniqueName": "Angola Janga",
     "uniques": ["Can build [all] improvements at a [+25]% rate",
       "Free [Worker] appears <upon founding a city>",
-      "[-25]% enemy spy effectiveness [in all city]",
-      "City-State territory always counts as friendly territory",
+      "[-50]% enemy spy effectiveness [in all cities]",
       "Cannot build [Worker] units"],
     "cities": ["Macaco","Andalaquituxe","Subupira","Dambrapanga","Osenga","Amaro","Zambi","Tabocas","Gongoro","Aca Inene","Acotirene","Aqualtene"]
   }
