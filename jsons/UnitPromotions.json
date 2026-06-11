@@ -15,6 +15,6 @@
   },
   {
     "name": "Caatinga Soldier",
-    "uniques": ["[+50]% Strength <when fighting in [Desert] tiles", "No defensive terrain penalty"],
+    "uniques": ["[+50]% Strength <when fighting in [Desert] tiles>", "No defensive terrain penalty"],
   }
 ]
