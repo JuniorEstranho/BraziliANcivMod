@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Waddle I", //only for Capoeirista and subsequent upgrades 
+    "uniques": ["[1] additional attacks per turn"]
+  },
+  {
+    "name": "Waddle II",
+    "prerequisites": ["Waddle I"],
+    "uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles>", "[+10]% Strength <vs [Sword] units>"]
+  },
+  {
+    "name": "Waddle III",
+    "prerequisites": ["Waddle II"],
+    "uniques": ["[+1] Sight", "Withdraws before melee combat <when below [10] HP>"],
+  },
+  {
+    "name": "Caatinga Soldier",
+    "uniques": ["[+50]% Strength <when fighting in [Desert] tiles", "No defensive terrain penalty"],
+  }
+]
