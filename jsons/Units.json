@@ -53,7 +53,22 @@
 		"cost": 40,
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Metal Casting",
+		"promotions": ["Waddle I"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit",
-  }
+	},
+	{
+		"name": "Goytacaz Warrior",
+		"uniqueTo": "The Tupi",
+		"replaces": "Longswordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"promotions": ["Sentry","Woodsman"],
+		"attackSound": "nonmetalhit"
+	}
 ]
