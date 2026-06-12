@@ -4,17 +4,10 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Brazil
-  rotate: false
-  xy: 0, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 NationIcons/Canudos
   rotate: false
-  xy: 0, 0
-  size: 100, 100
+  xy: 485, 161
+  size: 172, 172
   orig: 100, 100
   offset: 0, 0
   index: -1
@@ -41,8 +34,8 @@ NationIcons/Juliana
   index: -1
 NationIcons/Malês
   rotate: false
-  xy: 0, 0
-  size: 100, 100
+  xy: 292, 344
+  size: 102, 128
   orig: 100, 100
   offset: 0, 0
   index: -1
@@ -60,6 +53,13 @@ NationIcons/Palmares
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/The Tupi
+  rotate: false
+  xy: 629, 320
+  size: 170, 185
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Black Lancer
   rotate: false
   xy: 304, 201
@@ -74,31 +74,52 @@ UnitIcons/Capoeirista
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Levantist
+UnitIcons/Black Martyr
   rotate: false
-  xy: 0, 0
-  size: 0, 0
+  xy: 175, 441
+  size: 120, 137
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Sertanejo
   rotate: false
-  xy: 0, 0
-  size: 0, 0
+  xy: 407, 340
+  size: 187, 165
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Goytacaz Warrior
+  rotate: false
+  xy: 0, 529
+  size: 170, 170
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/BrewPub
   rotate: false
-  xy: 58, 358
+  xy: 0, 358
   size: 104, 115
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Quitanda
   rotate: false
-  xy: 0, 0
-  size: 0, 0
+  xy: 407, 0
+  size: 154, 142
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Maloca
+  rotate: false
+  xy: 664, 189
+  size: 133, 122
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Chapel
+  rotate: false
+  xy: 562, 0
+  size: 117, 150
   orig: 100, 100
   offset: 0, 0
   index: -1
@@ -106,6 +127,13 @@ ImprovementIcons/Mocambo
   rotate: false
   xy: 0, 172
   size: 140, 181
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Unable to found cities
+  rotate: false
+  xy: 701, 0
+  size: 50, 50
   orig: 100, 100
   offset: 0, 0
   index: -1
