@@ -86,7 +86,7 @@
     "favoredReligion": "Islam",
     "uniqueName": "American Levant",
     "uniques": ["Earn [100]% of killed [Military] unit's [Cost] as [Golden Age points]",
-      "[+50]% [Faith] [in this city] <during We Love The King>",
+      "[+50]% [Faith] [in this city] <during We Love The King Day>",
       "Gain a free [Mosque] [in capital] <after founding a religion>",
       "\"Borrows\" city names from other civilizations in the game"],
     "cities": ["Licutan's Mosque"]
@@ -118,8 +118,41 @@
     "favoredReligion": "Christianity",
     "uniqueName": "Angola Janga",
     "uniques": ["Comment [Are posible enter in Foreign Land without open borders]",
-      "Can build [all] improvements at a [+25]% rate",
+      "Comment [Foreign cities located near cities border, receive a penalty in the cost of natural border expansion.",
       "[-50]% enemy spy effectiveness [in all cities]"],
     "cities": ["Macaco","Andalaquituxe","Subupira","Dambrapanga","Osenga","Amaro","Zambi","Tabocas","Gongoro","Aca Inene","Acotirene","Aqualtene"]
+  },
+  {
+    "name": "The Tupi",
+    "leaderName": "Cunhambebe",
+    "adjective": ["Tupis"]
+    "startBias": ["Jungle"],
+    "preferredVictoryType": "Cultural",
+    "personality": "Cunhambebe",
+
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+
+    "declaringWar": "We will not accept all your aggressions. The Tupi people will triumph over your fallen men!",
+    "attacked": "Coward! You won't gain anything from this. The Tupi people are not known for giving up!",
+    "denounced": "So get out of here!",
+    "defeated": "Monster, I curse you, I curse your children, I curse your grandchildren!",
+    "introduction": "The Tupi people welcome you. I am Cunhambebe, The Tupinambá Chieftain tribe.",
+
+    "neutralHello": "Welcome.",
+    "hateHello": "Well.",
+
+    "tradeRequest": "Does this proposal align with your customs?",
+
+    "outerColor": [74, 234, 38],
+    "innerColor": [41, 66, 223],
+    "favoredReligion": "Christianity",
+    "uniqueName": "Amazon Jungle",
+    "uniques": ["Comment [[Jungle] tiles function like [River]; [Farm] improvements adjacent to them provides [+1 Food]. Researching [Civil Service] increases this amount to [+2 Food].]",
+      "Comment [Enemy units on your [Jungle] tiles do not gain terrain defensive bonus and lose [-25%] Strength, in addition to being unable to pillage anything on that tile.]",
+      "[+1 Food] from every [Farm] <in tiles adjacent to [Jungle] tiles> <hidden from users>",
+      "[+1 Food] from every [Farm] <in tiles adjacent to [Jungle] tiles> <after discovering [Civil Service]> <hidden from users>"],
+    "cities": ["Yperoig","Tamoio","Tupinambá","Tremembê","Potiguara","Tabajara","Caeté","Tupiniquim","Aimorê","Goitacaz","Temiminó","Guarani","Mawé","Munduruku","Juruna","Arikém","Ramaráma",
+      "Awetí","Mondé","Tuparí"]
   }
 ]
