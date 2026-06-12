@@ -84,10 +84,10 @@
     "outerColor": [54, 134, 177],
     "innerColor": [255, 255, 255],
     "favoredReligion": "Islam",
-    "uniqueName": "Levant in America",
-    "uniques": ["[+50]% [Faith] [in all cities] <after enhancing a religion>",
+    "uniqueName": "American Levant",
+    "uniques": ["Earn [100]% of killed [Military] unit's [Cost] as [Golden Age points]",
+      "[+50]% [Faith] [in this city] <during We Love The King>",
       "Gain a free [Mosque] [in capital] <after founding a religion>",
-      "[Great Merchant] is earned [50]% faster",
       "\"Borrows\" city names from other civilizations in the game"],
     "cities": ["Licutan's Mosque"]
   },
@@ -117,10 +117,9 @@
     "innerColor": [82, 230, 0],
     "favoredReligion": "Christianity",
     "uniqueName": "Angola Janga",
-    "uniques": ["Can build [all] improvements at a [+25]% rate",
-      "Free [Worker] appears <upon founding a city>",
-      "[-50]% enemy spy effectiveness [in all cities]",
-      "Cannot build [Worker] units"],
+    "uniques": ["Comment [Are posible enter in Foreign Land without open borders]",
+      "Can build [all] improvements at a [+25]% rate",
+      "[-50]% enemy spy effectiveness [in all cities]"],
     "cities": ["Macaco","Andalaquituxe","Subupira","Dambrapanga","Osenga","Amaro","Zambi","Tabocas","Gongoro","Aca Inene","Acotirene","Aqualtene"]
   }
 ]
