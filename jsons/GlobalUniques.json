@@ -7,7 +7,7 @@
     "[-25]% maintenance costs <for [All] units> <for [Major-State] Civilizations>",
     "Cannot build [Settler] units <for [Major-State] Civilizations>",
     "[Settler] units gain the [Unable to found cities] promotion <for [Major-State] Civilizations>",
-    "[+25]% Culture cost of natural border growth [in all cities] <within [3] tiles of a [Palmares]> <for [non-[Palmares] Civilizations>"],
+    "[+25]% Culture cost of natural border growth [in all cities] <within [3] tiles of a [Palmares]> <for [non-[Palmares]] Civilizations>"],
   "unitUniques": ["May enter foreign tiles without open borders <for [Palmares] Civilizations>",
     "Unable to pillage tiles <in [{Jungle} {The Tupi}] tiles>",
     "No defensive terrain bonus <in [{Jungle} {The Tupi}] tiles> <for [non-[The Tupi]] Civilizations>",
