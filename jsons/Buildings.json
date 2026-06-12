@@ -22,5 +22,18 @@
 		"percentStatBonus": {"gold": 25},
 		"uniques": ["[+1 Culture] from every [Luxury resource]"],
 		"requiredTech": "Currency"
+	},
+	{
+		"name": "Maloca",
+		"uniqueTo": "The Tupi",
+		"replaces": "Granary",
+		"food": 2,
+		"cost": 75,
+		"maintenance": 1,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]",
+			"[+1 Food] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Pottery"
 	}
 ]
