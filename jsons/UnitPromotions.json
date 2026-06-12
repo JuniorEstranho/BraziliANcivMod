@@ -1,20 +1,40 @@
 [
-  {
-    "name": "Waddle I", //only for Capoeirista and subsequent upgrades 
-    "uniques": ["[1] additional attacks per turn"]
+  { //Brawler Type Promotions
+    "name": "Waddle I", 
+    "uniques": ["[1] additional attacks per turn"],
+    "unitTypes": ["Brawler"]
   },
   {
     "name": "Waddle II",
     "prerequisites": ["Waddle I"],
-    "uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles>", "[+10]% Strength <vs [Sword] units>"]
+    "uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles>", "[+10]% Strength <vs [Sword] units>"],
+    "unitTypes": ["Brawler"]
   },
   {
     "name": "Waddle III",
     "prerequisites": ["Waddle II"],
-    "uniques": ["[+1] Sight", "Withdraws before melee combat <when below [10] HP>"],
+    "uniques": ["[+1] Movement"],
+    "unitTypes": ["Brawler"]
   },
   {
+    "name": "Endurance I",
+    "uniques": ["[+20]% Strength <when defending>"],
+    "unitTypes": ["Brawler"]
+  },
+  {
+    "name": "Endurance II",
+    "prerequisites": ["Endurance I"],
+    "uniques": ["Can see over obstacles", "[+30]% Strength <when defending> <vs [Ranged] units>"],
+    "unitTypes": ["Brawler"]
+  },
+  {
+    "name": "Backflip",
+    "prerequisites": ["Endurance II"],
+    "uniques": ["Withdraws before melee combat <when below [30] HP>"],
+    "unitTypes": ["Brawler"]
+  },
+  { //Others
     "name": "Caatinga Soldier",
-    "uniques": ["[+50]% Strength <when fighting in [Desert] tiles>", "No defensive terrain penalty"],
+    "uniques": ["[+50]% Strength <when fighting in [Desert] tiles>", "No defensive terrain penalty"]
   }
 ]
