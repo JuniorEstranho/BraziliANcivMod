@@ -1,0 +1,11 @@
+{
+  "name": "BraziliANcivMod",
+  "uniques": ["[+25]% [Production] [in capital] <for [Major-State] Civilizations>",
+    "[+25]% [Gold] [in capital] <for [Major-State] Civilizations>",
+    "[+25]% [Science] [in capital] <for [Major-State] Civilizations>",
+    "[+25]% [Culture] [in capital] <for [Major-State] Civilizations>",
+    "[-25]% maintenance costs <for [All] units> <for [Major-State] Civilizations>",
+    "Cannot build [Settler] units <for [Major-State] Civilizations>",
+    "[Settler] units gain the [Unable to found cities] promotion <for [Major-State] Civilizations>"],
+  "unitUniques": ["May enter foreign tiles without open borders <for [Palmares] Civilizations>"]
+}
