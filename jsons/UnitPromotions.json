@@ -36,5 +36,9 @@
   { //Others
     "name": "Caatinga Soldier",
     "uniques": ["[+50]% Strength <when fighting in [Desert] tiles>", "No defensive terrain penalty"]
+  },
+  {
+    "name": "Unable to found cities",
+    "uniques": ["[This Unit] is destroyed <upon turn end>","Cannot move","No Sight"]
   }
 ]
