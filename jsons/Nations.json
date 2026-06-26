@@ -25,7 +25,7 @@
     "favoredReligion": "Christianity",
     "uniqueName": "O Arraial",
     "uniques": ["Major-State",
-      "[+1 Production] from every [Farm]",
+      "[+1 Production] from every [Farm] <after discovering [Civil Service]>",
       "City-State territory always counts as friendly territory"],
     "cities": ["Canudos"]
   },
@@ -84,8 +84,8 @@
     "innerColor": [255, 255, 255],
     "favoredReligion": "Islam",
     "uniqueName": "American Levant",
-    "uniques": ["Earn [100]% of killed [Military] unit's [Cost] as [Golden Age points]",
-      "[+50]% [Faith] [in this city] <during We Love The King Day>",
+    "uniques": ["[+1 Gold] [in all non-occupied cities]",
+      "Earn [100]% of killed [Military] unit's [Cost] as [Golden Age points]",
       "Gain a free [Mosque] [in capital] <after founding a religion>",
       "\"Borrows\" city names from other civilizations in the game"],
     "cities": ["Licutan's Mosque"]
@@ -116,10 +116,42 @@
     "innerColor": [82, 230, 0],
     "favoredReligion": "Christianity",
     "uniqueName": "Angola Janga",
-    "uniques": ["Comment [Are posible enter in Foreign Land without open borders]",
+    "uniques": ["Comment [Are posible enter in Foreign Land without open borders.]",
       "Comment [Foreign cities located near cities border, receive a penalty in the cost of natural border growth.]",
       "[-25]% enemy spy effectiveness [in all cities]"],
     "cities": ["Macaco","Andalaquituxe","Subupira","Dambrapanga","Osenga","Amaro","Zambi","Tabocas","Gongoro","Aca Inene","Acotirene","Aqualtene"]
+  },
+  {
+    "name": "Piratini",
+    "leaderName": "Bento Gonçalves",
+    "adjective": ["Rio Grandense"],
+    "startBias": ["Avoid [Desert]"],
+    "preferredVictoryType": "Scientific",
+    "personality": "Bento Gonçalves",
+
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+
+    "declaringWar": "You wasted my time with your disloyal agreements. I don't need nothing this! Let's make a true agreement, hahaha.",
+    "attacked": "You disloyal fool, you don't wanna see what my army can do with your pathetic cities!",
+    "denounced": "I don't need the opinion of a backstabber.",
+    "defeated": "Maybe if I had more luck.",
+    "introduction": "Greetings! We are so exciting to meeting you. I am Bento Gonçalves, the Great Major from Brazilian South Army or now Piratini Republic Amy.",
+
+    "neutralHello": "Hello!",
+    "hateHello": "What do YOU want now?",
+
+    "tradeRequest": "I trust on you, you trust on me?",
+
+    "outerColor": [238, 49, 47],
+    "innerColor": [0, 171, 78],
+    "favoredReligion": "Christianity",
+    "uniqueName": "Charisma",
+    "uniques": ["Gain [90] Influence with a [Great General] gift to a City-State",
+      "Gain [90] Influence with a [Great Admiral] gift to a City-State",
+      "When defeating a [City-State] unit, earn [25] Gold and recruit it <with [66]% chance>"],
+    "cities": ["Piratini","Porto Alegre","Rio Grande","Caxias do Sul","Pelotas","Bagé","Alegrete","São Gabriel",
+      "Santa Maria","São Borja","Ijuí","Chuí","Erechim","Canoas","Santo Angelo","Jaguarão","Passo Fundo","Viamão"]
   },
   {
     "name": "The Tupi",
