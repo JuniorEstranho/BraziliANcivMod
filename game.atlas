@@ -74,14 +74,14 @@ UnitIcons/Capoeirista
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Black Martyr
+UnitIcons/Dagger Scout
   rotate: false
   xy: 175, 441
   size: 120, 137
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Sertanejo
+UnitIcons/Jagunço
   rotate: false
   xy: 407, 340
   size: 187, 165
@@ -116,7 +116,7 @@ BuildingIcons/Maloca
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Chapel
+ImprovementIcons/Arraial
   rotate: false
   xy: 562, 0
   size: 117, 150
@@ -127,6 +127,20 @@ ImprovementIcons/Mocambo
   rotate: false
   xy: 0, 172
   size: 140, 181
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Caatinga Soldier
+  rotate: false
+  xy: 407, 340
+  size: 187, 165
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Martial Arts
+  rotate: false
+  xy: 218, 0
+  size: 182, 199
   orig: 100, 100
   offset: 0, 0
   index: -1
