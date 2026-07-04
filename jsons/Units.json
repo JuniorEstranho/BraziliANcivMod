@@ -32,6 +32,7 @@
 		"name": "Dagger Scout",
 		"uniqueTo": "Malês",
 		"replaces": "Scout",
+		"unitType": "Scout",
 		"movement": 2,
 		"strength": 7,
 		"cost": 25,
