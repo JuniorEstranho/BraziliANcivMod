@@ -2,7 +2,7 @@
   {
     "name": "Canudos",
     "leaderName": "Antônio Conselheiro",
-    "adjective": ["Canudos"]
+    "adjective": ["Canudense"]
     "startBias": ["Desert"],
     "preferredVictoryType": "Diplomatic",
     "personality": "Antônio Conselheiro",
@@ -25,7 +25,9 @@
     "favoredReligion": "Christianity",
     "uniqueName": "O Arraial",
     "uniques": ["Major-State",
-      "[+1 Production] from every [Farm] <after discovering [Civil Service]>",
+      "[+100]% [Faith] [in capital]",
+      "May buy items in puppet cities",
+      "May not annex cities",
       "City-State territory always counts as friendly territory"],
     "cities": ["Canudos"]
   },
@@ -55,7 +57,9 @@
     "innerColor": [16, 16, 16],
     "favoredReligion": "Christianity",
     "uniqueName": "Equality, Freedom and Humanity",
-    "uniques": ["Free Social Policy <upon entering a Golden Age>"],
+    "uniques": ["Comment [Gain [100] [Happiness] upon founding a city (modified by game speed)]",
+      "Free Social Policy <upon entering a Golden Age>",
+      "Instantly gain [100] [Golden Age points] <upon founding a city> <(modified by game speed)> <hidden from users>"],
     "cities": ["Laguna","Desterro","Blumenau","Itajahy","Tijucas","São Miguel","São José","Tubarão","Joinville","São Francisco do Sul","Paraty",
       "Imarui","Camboriú","Porto Belo","Biguaçu","Palhoça","Brusque","Palmas"]
   },
@@ -147,9 +151,9 @@
     "innerColor": [0, 171, 78],
     "favoredReligion": "Christianity",
     "uniqueName": "Charisma",
-    "uniques": ["Gain [90] Influence with a [Great General] gift to a City-State",
-      "Gain [90] Influence with a [Great Admiral] gift to a City-State",
-      "When defeating a [City-State] unit, earn [25] Gold and recruit it <with [66]% chance>"],
+    "uniques": ["When defeating a [{non-[Barbarian]} {Military}] unit, earn [25] Gold and recruit it <with [33]% chance>",
+      "[+8 Happiness] from every [Citadel]",
+      "[-25]% XP required for promotions <for [Military] units>",],
     "cities": ["Piratini","Porto Alegre","Rio Grande","Caxias do Sul","Pelotas","Bagé","Alegrete","São Gabriel",
       "Santa Maria","São Borja","Ijuí","Chuí","Erechim","Canoas","Santo Angelo","Jaguarão","Passo Fundo","Viamão"]
   },
