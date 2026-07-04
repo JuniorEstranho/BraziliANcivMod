@@ -1,7 +1,7 @@
 [
   {
     "name": "Antônio Conselheiro",
-    "production": 6,
+    "production": 5,
     "food": 7,
     "gold": 5,
     "science": 6,
@@ -30,13 +30,43 @@
     }
   },
   {
+    "name": "Bento Gonçalves",
+    "production": 5,
+    "food": 5,
+    "gold": 6,
+    "science": 6,
+    "culture": 5,
+    "happiness": 10,
+    "faith": 6,
+    "military": 8,
+    "aggressive": 6,
+    "declareWar": 5,
+    "commerce": 6,
+    "diplomacy": 5,
+    "loyal": 4,
+    "expansion": 7,
+    "denounceWillingness": 6,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 8,
+      "Honor": 4,
+      "Commerce": 5,
+      "Patronage": 5,
+      "Piety": 3,
+      "Rationalism": 6,
+      "Freedom": 5,
+      "Autocracy": 6,
+      "Order": 7
+    }
+  },
+  {
     "name": "Cunhambebe",
     "production": 5,
     "food": 8,
     "gold": 4,
     "science": 5,
-    "culture": 7,
-    "happiness": 8,
+    "culture": 6,
+    "happiness": 6,
     "faith": 6,
     "military": 7,
     "aggressive": 5,
@@ -91,14 +121,14 @@
   },
   {
     "name": "Pacífico Licutan",
-    "production": 7,
+    "production": 5,
     "food": 6,
-    "gold": 7,
+    "gold": 5,
     "science": 6,
     "culture": 7,
-    "happiness": 6,
-    "faith": 8,
-    "military": 7,
+    "happiness": 5,
+    "faith": 7,
+    "military": 6,
     "aggressive": 6,
     "declareWar": 5,
     "commerce": 7,
@@ -126,7 +156,7 @@
     "gold": 4,
     "science": 5,
     "culture": 7, 
-    "happiness": 9,
+    "happiness": 6,
     "faith": 4,
     "military": 8,
     "aggressive": 6,
@@ -146,7 +176,7 @@
       "Rationalism": 4,
       "Freedom": 4,
       "Autocracy": 5,
-      "Order": 9
+      "Order": 7
     }
   }
 ]
