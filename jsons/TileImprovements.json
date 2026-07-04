@@ -9,8 +9,24 @@
     "uniques": ["[+1 Production] for each adjacent [Mocambo]",
       "[+1 Production] <after discovering [Machinery]>",
       "[+2 Culture] <after discovering [Flight]>",
+      "Adjacent enemy units ending their turn take [10] damage",
       "Gives a defensive bonus of [50]%",
       "Can be built outside your borders",
       "Pillaging this improvement yields approximately [+16 Gold]"]
+  },
+  {
+    "name": "Arraial",
+    "uniqueTo": "Canudos"
+    "terrainsCanBeBuiltOn": ["Desert"],
+    "turnsToBuild": 7,
+    "food": 1,
+    "production": 1,
+    "culture": 1,
+    "techRequired": "Civil Service"
+    "uniques": ["[+1 Food] <after discovering [Fertilizer]>",
+      "[+1 Production] <after discovering [Machinery]>",
+      "[+1 Culture] <after discovering [Acoustics]>",
+      "Cannot be built on [resource] tiles",
+      "Pillaging this improvement yields approximately [+8 Gold]"]
   }
 ]
