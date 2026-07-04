@@ -1,8 +1,6 @@
 {
   "name": "BraziliANcivMod",
   "uniques": [//Major-State Balance
-    "[+15]% [Science] [in capital] <for [Major-State] Civilizations>",
-    "[+15]% [Culture] [in capital] <for [Major-State] Civilizations>",
     "[-25]% maintenance costs <for [Military] units> <for [Major-State] Civilizations>",
     "Cannot build [Settler] units <for [Major-State] Civilizations>",
     "[Settler] units gain the [Unable to found cities] promotion <for [Major-State] Civilizations> <when number of [Cities] is more than [0]>",
