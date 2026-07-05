@@ -32,15 +32,15 @@
 		"name": "Firestarter",
 		"uniqueTo": "Malês",
 		"replaces": "Archer",
-		"unitType": "Archery",
+		"unitType": "Sword",
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
 		"requiredTech": "Agriculture",
-		"obsoleteTech": "Construction",
+		"obsoleteTech": "Mathematics",
 		"uniques": ["[+150]% Strength <vs cities> <when attacking>","Invisible to non-adjacent units","Unable to capture cities", "[-50]% Strength <vs [Land] units> <when defending>","Can only attack [City] units"],
 		"promotions": ["[Firestarter] ability"],
-		"upgradesTo": "Composite Bowman",
+		"upgradesTo": "Catapult",
 		"attackSound": "firestarter"
 	},
 	{
