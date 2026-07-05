@@ -1,11 +1,19 @@
 [
+  {
+    "name": "[Firestarter] ability",
+    "uniques": ["Withdraws before melee combat <with [50]% chance>", "No movement cost to pillage"]
+  },
   { //Only for Jagunço
     "name": "Caatinga Soldier",
-    "uniques": ["[+50]% Strength <when fighting in [Desert] tiles>", "No defensive terrain penalty"]
+    "uniques": ["[+33]% Strength <when fighting in [Desert] tiles>", "No defensive terrain penalty"]
   },
   { //Only for Capoeirista
     "name": "Martial Arts",
-    "uniques": ["No defensive terrain penalty","Can move after attacking"]
+    "uniques": ["Can move after attacking"]
+  },
+  { //Only for Militiamen
+    "name": "Militia",
+    "uniques": ["[-50]% maintenance costs"]
   },
   { //Unable to found cities 
     "name": "Unable to found cities",
