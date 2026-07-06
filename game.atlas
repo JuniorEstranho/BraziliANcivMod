@@ -48,8 +48,8 @@ NationIcons/Maranhão
   index: -1
 NationIcons/Palmares
   rotate: false
-  xy: 0, 0
-  size: 200, 170
+  xy: 175, 441
+  size: 120, 137
   orig: 100, 100
   offset: 0, 0
   index: -1
@@ -74,7 +74,7 @@ UnitIcons/Capoeirista
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Dagger Scout
+UnitIcons/Martyr
   rotate: false
   xy: 175, 441
   size: 120, 137
