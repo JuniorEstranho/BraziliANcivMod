@@ -9,7 +9,7 @@
 	  "cost": 200,
 	  "requiredTech": "Rifling",
 	  "obsoleteTech": "Replaceable Parts",
-	  "promotions": ["Shock I", "Caatinga Soldier"],
+	  "promotions": ["Caatinga Soldier"],
 	  "upgradesTo": "Great War Infantry",
 	  "attackSound": "shot"
 	},
@@ -19,7 +19,7 @@
 		"replaces": "Lancer",
 		"unitType": "Mounted",
 		"movement": 4,
-		"strength": 24,
+		"strength": 25,
 		"cost": 185,
 		"requiredTech": "Metallurgy",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
@@ -31,17 +31,18 @@
 	{
 		"name": "Firestarter",
 		"uniqueTo": "Malês",
-		"replaces": "Archer",
-		"unitType": "Sword",
+		"replaces": "Catapult",
+		"unitType": "Sword", //changed to Sword type
 		"movement": 2,
 		"strength": 8,
-		"cost": 40,
-		"requiredTech": "Agriculture",
-		"obsoleteTech": "Mathematics",
-		"uniques": ["[+150]% Strength <vs cities> <when attacking>","Invisible to non-adjacent units","Unable to capture cities", "[-50]% Strength <vs [Land] units> <when defending>","Can only attack [City] units"],
+		"cost": 60,
+		"requiredTech": "Mathematics",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Trebuchet",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","Invisible to non-adjacent units <in [Enemy Land] tiles>", "No defensive terrain bonus","Can only attack [City] units>"],
 		"promotions": ["[Firestarter] ability"],
-		"upgradesTo": "Catapult",
-		"attackSound": "firestarter"
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Capoeirista",
