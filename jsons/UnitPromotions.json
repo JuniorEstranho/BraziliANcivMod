@@ -1,7 +1,7 @@
 [
   {
-    "name": "[Firestarter] ability",
-    "uniques": ["Withdraws before melee combat <with [50]% chance>", "No movement cost to pillage"]
+    "name": "[Martyr] ability",
+    "uniques": ["No movement cost to pillage"]
   },
   { //Only for Jagunço
     "name": "Caatinga Soldier",
