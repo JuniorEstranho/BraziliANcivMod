@@ -39,7 +39,7 @@
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Trebuchet",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","Invisible to non-adjacent units <in [Enemy Land] tiles>", "No defensive terrain bonus","Can only attack [City] units>"],
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","Invisible to non-adjacent units", "[-33]% Strength <when defending>","No defensive terrain bonus","Can only attack [City] units"],
 		"promotions": ["[Firestarter] ability"],
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
