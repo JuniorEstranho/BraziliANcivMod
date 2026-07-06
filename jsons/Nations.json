@@ -25,10 +25,10 @@
     "favoredReligion": "Christianity",
     "uniqueName": "O Arraial",
     "uniques": ["Major-State",
-      "[+100]% [Faith] [in capital]",
+      "[+50]% [Faith] [in capital]",
+      "City-State territory always counts as friendly territory",
       "May buy items in puppet cities",
-      "May not annex cities",
-      "City-State territory always counts as friendly territory"],
+      "May not annex cities",],
     "cities": ["Canudos"]
   },
   {
@@ -57,7 +57,7 @@
     "innerColor": [16, 16, 16],
     "favoredReligion": "Christianity",
     "uniqueName": "Equality, Freedom and Humanity",
-    "uniques": ["Comment [Gain [100] [Happiness] upon founding a city (modified by game speed)]",
+    "uniques": ["Comment [Gain [100] [Happiness] points upon founding a city (modified by game speed)]",
       "Free Social Policy <upon entering a Golden Age>",
       "Instantly gain [100] [Golden Age points] <upon founding a city> <(modified by game speed)> <hidden from users>"],
     "cities": ["Laguna","Desterro","Blumenau","Itajahy","Tijucas","São Miguel","São José","Tubarão","Joinville","São Francisco do Sul","Paraty",
@@ -67,7 +67,7 @@
     "name": "Malês",
     "leaderName": "Pacífico Licutan",
     "adjective": ["Malês"],
-    "preferredVictoryType": "Diplomatic",
+    "preferredVictoryType": "Cultural",
     "personality": "Pacífico Licutan",
 
     "startIntroPart1": "",
@@ -88,11 +88,12 @@
     "innerColor": [255, 255, 255],
     "favoredReligion": "Islam",
     "uniqueName": "American Levant",
-    "uniques": ["[+1 Gold] [in all non-occupied cities]",
-      "Earn [100]% of killed [Military] unit's [Cost] as [Golden Age points]",
-      "Gain a free [Mosque] [in capital] <after founding a religion>",
+    "uniques": ["[+1 Production] from every [Plantation]",
+      "Nullifies [Happiness] [in cities being razed]",
+      "Gain a free [Mosque] [in capital]",
       "\"Borrows\" city names from other civilizations in the game"],
-    "cities": ["Licutan's Mosque"]
+    "cities": ["Licutan's Mosque"],
+    "spyNames": ["Calafate","Sanim","Ahona","Dandará","Bilal","Nicobé","Pacífico","Mahin"]
   },
   {
     "name": "Palmares",
@@ -151,8 +152,8 @@
     "innerColor": [0, 171, 78],
     "favoredReligion": "Christianity",
     "uniqueName": "Charisma",
-    "uniques": ["When defeating a [{non-[Barbarian]} {Military}] unit, earn [25] Gold and recruit it <with [33]% chance>",
-      "[+8 Happiness] from every [Citadel]",
+    "uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Golden Age points]",
+      "When defeating a [{non-[Barbarian]} {Military}] unit, earn [25] Gold and recruit it <with [33]% chance>",
       "[-25]% XP required for promotions <for [Military] units>",],
     "cities": ["Piratini","Porto Alegre","Rio Grande","Caxias do Sul","Pelotas","Bagé","Alegrete","São Gabriel",
       "Santa Maria","São Borja","Ijuí","Chuí","Erechim","Canoas","Santo Angelo","Jaguarão","Passo Fundo","Viamão"]
