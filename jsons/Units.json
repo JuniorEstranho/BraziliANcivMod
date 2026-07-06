@@ -29,20 +29,18 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Firestarter",
+		"name": "Martyr",
 		"uniqueTo": "Malês",
-		"replaces": "Catapult",
-		"unitType": "Sword", //changed to Sword type
+		"replaces": "Scout",
+		"unitType": "Scout",
 		"movement": 2,
-		"strength": 8,
-		"cost": 60,
-		"requiredTech": "Mathematics",
-		"obsoleteTech": "Physics",
-		"upgradesTo": "Trebuchet",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","Invisible to non-adjacent units", "[-33]% Strength <when defending>","No defensive terrain bonus","Can only attack [City] units"],
-		"promotions": ["[Firestarter] ability"],
-		"hurryCostModifier": 20,
-		"attackSound": "nonmetalhit"
+		"strength": 7,
+		"cost": 30,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Invisible to non-adjacent units"],
+		"promotions": ["Ignore terrain cost", "[Martyr] ability"],
+		"attackSound": "metalhit"
 	},
 	{
 		"name": "Capoeirista",
