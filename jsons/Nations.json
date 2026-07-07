@@ -55,7 +55,7 @@
 
     "outerColor": [0,0,0],
     "innerColor": [0,0,0],
-    "favoredReligion": "",
+    "favoredReligion": "Christianity",
     "uniqueName": "",
     "uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games"],
     "cities": ["Recife"]
@@ -63,31 +63,36 @@
   {
     "name": "Grão Pará",
     "leaderName": "Eduardo Angelim",
-    "adjective": ["Cabano"],
-    "startBias": ["Jungle"],
+    "adjective": ["Paraense"],
+    "startBias": ["Jungle","Coast"],
     "preferredVictoryType": "Scientific",
     "personality": "Eduardo Angelim",
 
     "startIntroPart1": "",
     "startIntroPart2": "",
 
-    "declaringWar": "",
-    "attacked": "",
-    "denounced": "",
-    "defeated": "",
-    "introduction": "",
+    "declaringWar": "You are an imminent threat; I will not wait for your first attack.",
+    "attacked": "Foolishly, we are only here because of our struggle. We won't surrender without fight.",
+    "denounced": "Accepting this aggression is not an option.",
+    "defeated": "Cowardice — you attacked the weak for your own gain. You are nothing more than a glorified tyrant!",
+    "introduction": "Did you come here to join the fight or to fight against us?",
 
-    "neutralHello": "",
-    "hateHello": "",
+    "neutralHello": "Good day.",
+    "hateHello": "It's you.",
 
-    "tradeRequest": "",
+    "tradeRequest": "I'm restless thinking about it, but I want to see if you'll like it.",
+    "declaringFriendship": "I don't think you're our sworn enemy, then; perhaps you could accept.",
 
-    "outerColor": [0,0,0],
-    "innerColor": [0,0,0],
+    "outerColor": [255, 0, 0],
+    "innerColor": [0, 0, 128],
     "favoredReligion": "Christianity",
-    "uniqueName": "Cabanagem",
-    "uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games"],
-    "cities": ["Belém"]
+    "uniqueName": "Riverine Guerrilla Warfare",
+    "uniques": ["Comment [[Embarked] units may attack when embarked]",
+      "Comment [[Embarked] units are invisible to non-adjacent units]",
+      "[1] Movement point cost to embark <for [All] units>", 
+      "[+100]% Strength <for [Embarked] units> <when attacking>"],
+    "cities": ["Belém","Ananindeua","Santarém","Parauapebas","Marabá","Castanhal","Bragança","Altamira","Abaetetuba",
+      "Capanema","Manaus","Parintis","Itacoatiara","Manacapura","Coari","Tefé","Tabatinga","Maués","Manicoré"]
   },
   {
     "name": "Juliana",
@@ -147,8 +152,7 @@
     "uniques": ["[+1 Production] from every [Plantation]",
       "Nullifies [Happiness] [in cities being razed]",
       "Gain a free [Mosque] [in capital] <after founding a religion>",
-      "\"Borrows\" city names from other civilizations in the game",
-      "[-100]% Strength", "[-100]% Strength for cities"] //for tests,
+      "\"Borrows\" city names from other civilizations in the game"],
     "cities": ["Licutan's Mosque"],
     "spyNames": ["Calafate","Sanim","Ahona","Dandará","Bilal","Nicobé","Pacífico","Mahin"]
   },
@@ -210,7 +214,7 @@
     "favoredReligion": "Christianity",
     "uniqueName": "Charisma",
     "uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Golden Age points]",
-      "When defeating a [{Major} {Military} {Land}] unit, earn [25] Gold and recruit it <with [40]% chance>",
+      "When defeating a [City-State] unit, earn [10] Gold and recruit it",
       "[-25]% XP required for promotions <for [Military] units>"],
     "cities": ["Piratini","Porto Alegre","Rio Grande","Caxias do Sul","Pelotas","Bagé","Alegrete","São Gabriel",
       "Santa Maria","São Borja","Ijuí","Chuí","Erechim","Canoas","Santo Angelo","Jaguarão","Passo Fundo","Viamão"]
