@@ -27,6 +27,23 @@
       "[+1 Production] <after discovering [Machinery]>",
       "[+1 Culture] <after discovering [Acoustics]>",
       "Cannot be built on [resource] tiles",
-      "Pillaging this improvement yields approximately [+8 Gold]"]
+      "Pillaging this improvement yields approximately [+12 Gold]"]
+  },
+  {
+    "name": "Ribeirinho Village",
+    "uniqueTo": "Grão Pará",
+    "terrainsCanBeBuiltOn": ["Grassland","Plains"],
+    "turnsToBuild": 7,
+    "food": 1,
+    "culture": 1,
+    "techRequired": "Sailing",
+    "uniques": ["[+1 Food] for each adjacent [Fishing Boats]",
+      "[+1 Gold] from [River] tiles",
+      "[+1 Production] from [Jungle] tiles",
+      "[+1 Gold] <after discovering [Economics]>",
+      "Can only be built on [Coastal] tiles <in tiles without [River]>",
+      "Does not need removal of [Jungle]",
+      "Cannot be built on [Luxury resource] tiles",
+      "Pillaging this improvement yields approximately [+12 Gold]"]
   }
 ]
