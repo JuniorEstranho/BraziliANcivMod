@@ -36,7 +36,7 @@
     "leaderName": "",
     "adjective": [""],
     "startBias": [""],
-    "preferredVictoryType": "",
+    "preferredVictoryType": "Scientific",
     "personality": "",
 
     "startIntroPart1": "",
@@ -146,7 +146,7 @@
     "uniqueName": "American Levant",
     "uniques": ["[+1 Production] from every [Plantation]",
       "Nullifies [Happiness] [in cities being razed]",
-      "Gain a free [Mosque] [in capital] <after founding a Religion>",
+      "Gain a free [Mosque] [in capital] <after founding a religion>",
       "\"Borrows\" city names from other civilizations in the game",
       "[-100]% Strength", "[-100]% Strength for cities"] //for tests,
     "cities": ["Licutan's Mosque"],
