@@ -1,15 +1,18 @@
 {
   "name": "BraziliANcivMod",
-  "uniques": [//Major-State Balance
-    "[-25]% maintenance costs <for [Military] units> <for [Major-State] Civilizations>",
+  "uniques": [// Major-State Balance
+    "[-20]% maintenance costs <for [Military] units> <for [Major-State] Civilizations>",
     "Cannot build [Settler] units <for [Major-State] Civilizations>",
     "[Settler] units gain the [Unable to found cities] promotion <for [Major-State] Civilizations> <when number of [Cities] is more than [0]>",
-    //Palmares unique
+    // Palmares unique
     "[+25]% Culture cost of natural border growth [in all cities] <within [3] tiles of a [Palmares]> <for [non-[Palmares]] Civilizations>"],
   "unitUniques": [//Palmares unique
     "May enter foreign tiles without open borders <for [Palmares] Civilizations>",
-    //The Tupi unique
+    // The Tupi unique
     "Unable to pillage tiles <in [{Jungle} {The Tupi}] tiles>",
     "No defensive terrain bonus <in [{Jungle} {The Tupi}] tiles> <for [non-[The Tupi]] Civilizations>",
-    "[-25]% Strength <vs [The Tupi] units> <when fighting in [{Jungle} {The Tupi}] tiles> <when defending>"]
+    "[-25]% Strength <vs [The Tupi] units> <when fighting in [{Jungle} {The Tupi}] tiles> <when defending>",
+    // Grão Pará unique 
+    "May attack when embarked <for [Grão Pará] Civilizations>",
+    "Invisible to non-adjacent units <when [Embarked]> <for [Grão Pará] Civilizations>"]
 }
