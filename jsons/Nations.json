@@ -28,7 +28,7 @@
       "[+50]% [Faith] [in capital]",
       "City-State territory always counts as friendly territory",
       "May buy items in puppet cities",
-      "May not annex cities",],
+      "May not annex cities"],
     "cities": ["Canudos"]
   },
   {
@@ -115,8 +115,7 @@
     "innerColor": [16, 16, 16],
     "favoredReligion": "Christianity",
     "uniqueName": "Equality, Freedom and Humanity",
-    "uniques": ["Free Social Policy <upon entering a Golden Age>",
-      ""],
+    "uniques": ["Free Social Policy <upon entering a Golden Age>"],
     "cities": ["Laguna","Desterro","Blumenau","Itajahy","Tijucas","São Miguel","São José","Tubarão","Joinville","São Francisco do Sul","Paraty",
       "Imarui","Camboriú","Porto Belo","Biguaçu","Palhoça","Brusque","Palmas"]
   },
@@ -148,7 +147,8 @@
     "uniques": ["[+1 Production] from every [Plantation]",
       "Nullifies [Happiness] [in cities being razed]",
       "Gain a free [Mosque] [in capital] <after founding a Religion>",
-      "\"Borrows\" city names from other civilizations in the game"],
+      "\"Borrows\" city names from other civilizations in the game",
+      "[-100]% Strength", "[-100]% Strength for cities"] //for tests,
     "cities": ["Licutan's Mosque"],
     "spyNames": ["Calafate","Sanim","Ahona","Dandará","Bilal","Nicobé","Pacífico","Mahin"]
   },
@@ -210,8 +210,8 @@
     "favoredReligion": "Christianity",
     "uniqueName": "Charisma",
     "uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Golden Age points]",
-      "When defeating a [{non-[Barbarian]} {Military}] unit, earn [25] Gold and recruit it <with [33]% chance>",
-      "[-25]% XP required for promotions <for [Military] units>",],
+      "When defeating a [{Major} {Military} {Land}] unit, earn [25] Gold and recruit it <with [40]% chance>",
+      "[-25]% XP required for promotions <for [Military] units>"],
     "cities": ["Piratini","Porto Alegre","Rio Grande","Caxias do Sul","Pelotas","Bagé","Alegrete","São Gabriel",
       "Santa Maria","São Borja","Ijuí","Chuí","Erechim","Canoas","Santo Angelo","Jaguarão","Passo Fundo","Viamão"]
   },
