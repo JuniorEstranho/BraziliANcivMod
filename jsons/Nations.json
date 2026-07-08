@@ -7,8 +7,8 @@
     "preferredVictoryType": "Diplomatic",
     "personality": "Antônio Conselheiro",
 
-    "startIntroPart1": "",
-    "startIntroPart2": "",
+    "startIntroPart1": "The great Antônio—the messianic figure. Canudos was a small settlement that existed around 1890, bringing together Indigenous people, the destitute, freed enslaved people, and, above all, the inhabitants of the *sertão*. Yet our success drew the attention of powerful elites who devastated our settlement — but nothing will ever erase our struggle!",
+    "startIntroPart2": "Antônio Conselheiro! Will you manage to create a great settlement that will last for years? Will you manage to help us overcome the challenge of time?",
 
     "declaringWar": "For the sake of faith and the honor of the poorest and weakest, you will be ordered to leave!",
     "attacked": "First of all, understand that you are attacking a poor and defenseless people, right?",
@@ -32,35 +32,6 @@
     "cities": ["Canudos"]
   },
   {
-    "name": "Equador",
-    "leaderName": "",
-    "adjective": [""],
-    "startBias": [""],
-    "preferredVictoryType": "Scientific",
-    "personality": "",
-
-    "startIntroPart1": "",
-    "startIntroPart2": "",
-
-    "declaringWar": "",
-    "attacked": "",
-    "denounced": "",
-    "defeated": "",
-    "introduction": "",
-
-    "neutralHello": "",
-    "hateHello": "",
-
-    "tradeRequest": "",
-
-    "outerColor": [0,0,0],
-    "innerColor": [0,0,0],
-    "favoredReligion": "Christianity",
-    "uniqueName": "",
-    "uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games"],
-    "cities": ["Recife"]
-  },
-  {
     "name": "Grão Pará",
     "leaderName": "Eduardo Angelim",
     "adjective": ["Paraense"],
@@ -68,8 +39,8 @@
     "preferredVictoryType": "Scientific",
     "personality": "Eduardo Angelim",
 
-    "startIntroPart1": "",
-    "startIntroPart2": "",
+    "startIntroPart1": "Eduardo Angelim! For a long time, the province of Grão-Pará suffered under the depredations of the arrogant and exploitative elites of the Brazilian Regency; this set the stage for the *Cabanos* revolt—or the *Cabanagem*, as it came to be known—which was the largest popular uprising in Brazilian history. Many betrayals and massacres took place during the revolt, but in the end, we were defeated and slaughtered by those who had sworn to ensure our safety.",
+    "startIntroPart2": "We are weary of this suffering, Angelim! Please, give us the future we were promised! Will our independent province triumph over the test of time?",
 
     "declaringWar": "You are an imminent threat; I will not wait for your first attack.",
     "attacked": "Foolishly, we are only here because of our struggle. We won't surrender without fight.",
@@ -161,11 +132,11 @@
     "leaderName": "Zumbi",
     "adjective": ["Quilombola"],
     "startBias": ["Jungle"],
-    "preferredVictoryType": "Diplomatic",
+    "preferredVictoryType": "Cultural",
     "personality": "Zumbi",
 
-    "startIntroPart1": "",
-    "startIntroPart2": "",
+    "startIntroPart1": "Welcome to Angola Janga! During the colonial era, many enslaved Africans — alongside indigenous people and deserters — joined forces to defend themselves against the expansion of the feared Bandeirantes, thereby forming the 'Quilombo dos Palmares'. After numerous attacks, the great leader Ganga Zumba attempted to broker peace with the colonists — a move opposed by many within the quilombo — but he was mysteriously assassinated, reigniting the revolt and ultimately leading to the capture of Zumbi and the fall of the quilombo.",
+    "startIntroPart2": "Zumbi! We no longer fear oppression. Shall we safeguard this small space for our people? Shall we triumph over the invaders?",
 
     "declaringWar": "I couldn't help but notice your audacity in turning against us. Quilombolas we will destroy the enemy!",
     "attacked": "These lands will never be yours. You will achieve nothing with this aggression!",
@@ -214,7 +185,7 @@
     "favoredReligion": "Christianity",
     "uniqueName": "Charisma",
     "uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Golden Age points]",
-      "When defeating a [City-State] unit, earn [10] Gold and recruit it",
+      "When defeating a [City-State] unit, earn [10] Gold and recruit it <while the empire is happy>",
       "[-25]% XP required for promotions <for [Military] units>"],
     "cities": ["Piratini","Porto Alegre","Rio Grande","Caxias do Sul","Pelotas","Bagé","Alegrete","São Gabriel",
       "Santa Maria","São Borja","Ijuí","Chuí","Erechim","Canoas","Santo Angelo","Jaguarão","Passo Fundo","Viamão"]
@@ -245,7 +216,8 @@
     "innerColor": [41, 66, 223],
     "favoredReligion": "Christianity",
     "uniqueName": "Amazon Jungle",
-    "uniques": ["Comment [[Jungle] tiles function like [River]. [Farm] improvements adjacent to them provides [+1 Food]. Researching [Civil Service] increases this amount to [+2 Food].]",
+    "uniques": ["Starts with [Archery]",
+      "Comment [[Jungle] tiles function like [River]. [Farm] improvements adjacent to them provides [+1 Food]. Researching [Civil Service] increases this amount to [+2 Food].]",
       "Comment [Enemy units on your [Jungle] tiles do not gain terrain defensive bonus and lose [-25%] Strength, in addition to being unable to pillage anything on that tile.]",
       "[+1 Food] from every [Farm] <in tiles adjacent to [Jungle] tiles> <hidden from users>",
       "[+1 Food] from every [Farm] <in tiles adjacent to [Jungle] tiles> <after discovering [Civil Service]> <hidden from users>"],
