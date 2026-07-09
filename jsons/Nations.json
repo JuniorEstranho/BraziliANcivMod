@@ -7,7 +7,7 @@
     "preferredVictoryType": "Diplomatic",
     "personality": "Antônio Conselheiro",
 
-    "startIntroPart1": "The great Antônio—the messianic figure. Canudos was a small settlement that existed around 1890, bringing together Indigenous people, the destitute, freed enslaved people, and, above all, the inhabitants of the *sertão*. Yet our success drew the attention of powerful elites who devastated our settlement — but nothing will ever erase our struggle!",
+    "startIntroPart1": "The great Antônio—the messianic figure. Canudos was a small settlement that existed around 1890, bringing together Indigenous people, the destitute, freed enslaved people, and, above all, the inhabitants of the sertão. Yet our success drew the attention of powerful elites who devastated our settlement — but nothing will ever erase our struggle!",
     "startIntroPart2": "Antônio Conselheiro! Will you manage to create a great settlement that will last for years? Will you manage to help us overcome the challenge of time?",
 
     "declaringWar": "For the sake of faith and the honor of the poorest and weakest, you will be ordered to leave!",
@@ -39,7 +39,7 @@
     "preferredVictoryType": "Scientific",
     "personality": "Eduardo Angelim",
 
-    "startIntroPart1": "Eduardo Angelim! For a long time, the province of Grão-Pará suffered under the depredations of the arrogant and exploitative elites of the Brazilian Regency; this set the stage for the *Cabanos* revolt—or the *Cabanagem*, as it came to be known—which was the largest popular uprising in Brazilian history. Many betrayals and massacres took place during the revolt, but in the end, we were defeated and slaughtered by those who had sworn to ensure our safety.",
+    "startIntroPart1": "Eduardo Angelim! For a long time, the province of Grão-Pará suffered under the depredations of the arrogant and exploitative elites of the Brazilian Regency; this set the stage for the Cabanos revolt — or the 'Cabanagem' as it came to be known — which was the largest popular uprising in Brazilian history. Many betrayals and massacres took place during the revolt, but in the end, we were defeated and slaughtered by those who had sworn to ensure our safety.",
     "startIntroPart2": "We are weary of this suffering, Angelim! Please, give us the future we were promised! Will our independent province triumph over the test of time?",
 
     "declaringWar": "You are an imminent threat; I will not wait for your first attack.",
@@ -58,10 +58,9 @@
     "innerColor": [0, 0, 128],
     "favoredReligion": "Christianity",
     "uniqueName": "Riverine Guerrilla Warfare",
-    "uniques": ["Comment [[Embarked] units may attack when embarked]",
-      "Comment [[Embarked] units are invisible to non-adjacent units]",
-      "[1] Movement point cost to embark <for [All] units>", 
-      "[+100]% Strength <for [Embarked] units> <when attacking>"],
+    "uniques": ["[{Military} {Land}] units gain the [Ubá Canoes] promotion",
+      "[1] Movement point cost to embark <for [All] units>",
+      "[-50]% Gold cost of upgrading <for [Military] units>"],
     "cities": ["Belém","Ananindeua","Santarém","Parauapebas","Marabá","Castanhal","Bragança","Altamira","Abaetetuba",
       "Capanema","Manaus","Parintis","Itacoatiara","Manacapura","Coari","Tefé","Tabatinga","Maués","Manicoré"]
   },
