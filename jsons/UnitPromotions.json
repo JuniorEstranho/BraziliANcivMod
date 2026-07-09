@@ -15,6 +15,10 @@
     "name": "Militia",
     "uniques": ["[-50]% maintenance costs"]
   },
+  { //Only for Grão Pará
+    "nams": "Ubá Canoes",
+    "uniques": ["[+100]% Strength <when [Embarked]>", "May attack when embarked"]
+  },
   { //Unable to found cities 
     "name": "Unable to found cities",
     "uniques": ["[This Unit] is destroyed <upon turn end>","Cannot move","No Sight"]
