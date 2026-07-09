@@ -16,7 +16,7 @@
     "uniques": ["[-50]% maintenance costs"]
   },
   { //Only for Grão Pará
-    "nams": "Ubá Canoes",
+    "name": "Ubá Canoes",
     "uniques": ["[+100]% Strength <when [Embarked]>", "May attack when embarked"]
   },
   { //Unable to found cities 
