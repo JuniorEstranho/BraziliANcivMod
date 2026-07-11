@@ -26,14 +26,12 @@
 	{
 		"name": "Maloca",
 		"uniqueTo": "The Tupi",
-		"replaces": "Water Mill",
-		"maintenance": 2,
-		"food": 2,
-		"production": 1,
+		"replaces": "Colosseum",
+		"maintenance": 0,
 		"happiness": 2,
-		"hurryCostModifier": 25,
-		"uniques": ["[+1 Food] from [Jungle] tiles [in this city]"],
-		"requiredTech": "Trapping"
+		"uniques": ["[+2 Food] from [Jungle] tiles [in this city]"]
+		"cost": 50,
+		"requiredTech": "Construction"
 	},
 	{
 		"name": "Ranch",
