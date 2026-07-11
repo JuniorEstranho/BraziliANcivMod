@@ -58,9 +58,9 @@
     "innerColor": [0, 0, 128],
     "favoredReligion": "Christianity",
     "uniqueName": "Riverine Guerrilla Warfare",
-    "uniques": ["[{Military} {Land}] units gain the [Ubá Canoes] promotion",
+    "uniques": ["No Maintenance costs for improvements in [River] tiles",
       "[1] Movement point cost to embark <for [All] units>",
-      "[-50]% Gold cost of upgrading <for [Military] units>"],
+      "[{Military} {Land}] units gain the [Amphibious] promotion"],
     "cities": ["Belém","Ananindeua","Santarém","Parauapebas","Marabá","Castanhal","Bragança","Altamira","Abaetetuba",
       "Capanema","Manaus","Parintis","Itacoatiara","Manacapura","Coari","Tefé","Tabatinga","Maués","Manicoré"]
   },
@@ -92,7 +92,8 @@
     "uniqueName": "Equality, Freedom and Humanity",
     "uniques": ["Free Social Policy <upon entering a Golden Age>"],
     "cities": ["Laguna","Desterro","Blumenau","Itajahy","Tijucas","São Miguel","São José","Tubarão","Joinville","São Francisco do Sul","Paraty",
-      "Imarui","Camboriú","Porto Belo","Biguaçu","Palhoça","Brusque","Palmas"]
+      "Imarui","Camboriú","Porto Belo","Biguaçu","Palhoça","Brusque","Palmas"],
+    "spyNames": ["Giuseppe","Catarina","Wagner","Conrado","Anita","Garibaldi","Frederico","Vincente","Neto"]
   },
   {
     "name": "Malês",
@@ -155,7 +156,8 @@
     "uniques": ["Comment [Are posible enter in Foreign Land without open borders.]",
       "Comment [Foreign cities located near cities border, receive a penalty in the cost of natural border growth.]",
       "[-25]% enemy spy effectiveness [in all cities]"],
-    "cities": ["Macaco","Andalaquituxe","Subupira","Dambrapanga","Osenga","Amaro","Zambi","Tabocas","Gongoro","Aca Inene","Acotirene","Aqualtene"]
+    "cities": ["Macaco","Andalaquituxe","Subupira","Dambrapanga","Osenga","Amaro","Zambi","Tabocas","Gongoro","Aca Inene","Acotirene","Aqualtene"],
+    "spyNames": ["Dandara","Ganga","Zumba","Aqualtene","Zé","Chico","Zambi","Caboclo"]
   },
   {
     "name": "Piratini",
@@ -184,7 +186,7 @@
     "favoredReligion": "Christianity",
     "uniqueName": "Charisma",
     "uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Golden Age points]",
-      "When defeating a [City-State] unit, earn [10] Gold and recruit it <while the empire is happy>",
+      "When defeating a [City-State] unit, earn [25] Gold and recruit it",
       "[-25]% XP required for promotions <for [Military] units>"],
     "cities": ["Piratini","Porto Alegre","Rio Grande","Caxias do Sul","Pelotas","Bagé","Alegrete","São Gabriel",
       "Santa Maria","São Borja","Ijuí","Chuí","Erechim","Canoas","Santo Angelo","Jaguarão","Passo Fundo","Viamão"]
@@ -214,13 +216,12 @@
     "outerColor": [74, 234, 38],
     "innerColor": [41, 66, 223],
     "favoredReligion": "Christianity",
-    "uniqueName": "Amazon Jungle",
+    "uniqueName": "Body Painting Warriors",
     "uniques": ["Starts with [Archery]",
-      "Comment [[Jungle] tiles function like [River]. [Farm] improvements adjacent to them provides [+1 Food]. Researching [Civil Service] increases this amount to [+2 Food].]",
-      "Comment [Enemy units on your [Jungle] tiles do not gain terrain defensive bonus and lose [-25%] Strength, in addition to being unable to pillage anything on that tile.]",
-      "[+1 Food] from every [Farm] <in tiles adjacent to [Jungle] tiles> <hidden from users>",
-      "[+1 Food] from every [Farm] <in tiles adjacent to [Jungle] tiles> <after discovering [Civil Service]> <hidden from users>"],
-    "cities": ["Yperoig","Tamoio","Tupinambá","Tremembê","Potiguara","Tabajara","Caeté","Tupiniquim","Aimorê","Goitacaz","Temiminó","Guarani","Mawé","Munduruku","Juruna","Arikém","Ramaráma",
+      "[-50]% maintenance costs <for [Archery] units>",
+      "[+1 Culture] <for every [2] [[Military] Units]>"],
+    "cities": ["Yperoig","Tamoio","Tupinambá","Tremembê","Potiguara","Tabajara","Caeté","Tupiniquim","Aimorê","Goitacaz",
+      "Temiminó","Guarani","Mawé","Munduruku","Juruna","Arikém","Ramaráma",
       "Awetí","Mondé","Tuparí"]
   }
 ]
