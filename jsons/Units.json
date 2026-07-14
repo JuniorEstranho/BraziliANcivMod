@@ -53,8 +53,8 @@
 		"cost": 25,
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "Self-destructs when attacking <vs cities>"],
-		"promotions": ["Ignore terrain cost", "[Martyr] ability"],
+		"uniques": ["[+400]% Strength <when attacking>", "Self-destructs when attacking","Ignores Zone of Control"],
+		"promotions": ["Ignore terrain cost", "March"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -92,7 +92,7 @@
 		"replaces": "Warrior",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 9,
+		"strength": 10,
 		"cost": 40,
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Gunpowder",
