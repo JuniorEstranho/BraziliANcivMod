@@ -7,12 +7,5 @@
     // Palmares unique
     "[+25]% Culture cost of natural border growth [in all cities] <within [3] tiles of a [Palmares]> <for [non-[Palmares]] Civilizations>"],
   "unitUniques": [//Palmares unique
-    "May enter foreign tiles without open borders <for [Palmares] Civilizations>",
-    // The Tupi unique
-    "Unable to pillage tiles <in [{Jungle} {The Tupi}] tiles>",
-    "No defensive terrain bonus <in [{Jungle} {The Tupi}] tiles> <for [non-[The Tupi]] Civilizations>",
-    "[-25]% Strength <vs [The Tupi] units> <when fighting in [{Jungle} {The Tupi}] tiles> <when defending>",
-    // Grão Pará unique 
-    "May attack when embarked <for [Grão Pará] Civilizations>",
-    "Invisible to non-adjacent units <when [Embarked]> <for [Grão Pará] Civilizations>"]
+    "May enter foreign tiles without open borders <for [Palmares] Civilizations>"]
 }
