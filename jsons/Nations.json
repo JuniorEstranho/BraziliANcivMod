@@ -35,7 +35,7 @@
     "name": "Grão Pará",
     "leaderName": "Eduardo Angelim",
     "adjective": ["Paraense"],
-    "startBias": ["Jungle","Coast"],
+    "startBias": ["River"],
     "preferredVictoryType": "Scientific",
     "personality": "Eduardo Angelim",
 
@@ -99,7 +99,7 @@
     "name": "Malês",
     "leaderName": "Pacífico Licutan",
     "adjective": ["Malês"],
-    "preferredVictoryType": "Cultural",
+    "preferredVictoryType": "Domination",
     "personality": "Pacífico Licutan",
 
     "startIntroPart1": "",
@@ -218,7 +218,7 @@
     "favoredReligion": "Christianity",
     "uniqueName": "Body Painting Warriors",
     "uniques": ["Starts with [Archery]",
-      "[-50]% maintenance costs <for [Archery] units>",
+      "[-33]% maintenance costs <for [Archery] units>",
       "[+1 Culture] <for every [2] [[Military] Units]>"],
     "cities": ["Yperoig","Tamoio","Tupinambá","Tremembê","Potiguara","Tabajara","Caeté","Tupiniquim","Aimorê","Goitacaz",
       "Temiminó","Guarani","Mawé","Munduruku","Juruna","Arikém","Ramaráma",
