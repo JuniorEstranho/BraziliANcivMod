@@ -47,14 +47,15 @@
 		"name": "Martyr",
 		"uniqueTo": "Malês",
 		"replaces": "Scout",
-		"unitType": "Scout",
 		"movement": 2,
 		"strength": 5,
+		"rangedStrength": 5,
+		"range": 1,
 		"cost": 25,
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["[+400]% Strength <when attacking>", "Self-destructs when attacking","Ignores Zone of Control"],
-		"promotions": ["Ignore terrain cost", "March"],
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "[+300]% Strength <vs cities> <when attacking>"],
+		"promotions": ["Ignore terrain cost"],
 		"attackSound": "metalhit"
 	},
 	{
