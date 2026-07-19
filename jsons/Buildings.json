@@ -16,7 +16,6 @@
 		"uniqueTo": "Malês",
 		"replaces": "Market",
 		"gold": 2,
-		"science": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
@@ -26,19 +25,20 @@
 	{
 		"name": "Maloca",
 		"uniqueTo": "The Tupi",
-		"replaces": "Colosseum",
-		"maintenance": 0,
-		"happiness": 2,
-		"uniques": ["[+2 Food] from [Jungle] tiles [in this city]"]
-		"cost": 90,
-		"requiredTech": "Construction"
+		"replaces": "Warrior",
+		"unitType": "Workshop",
+		"maintenance": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] per [2] population [in this city]", "[+25]% Great Person generation [in this city]"],
+		"requiredTech": "Metal Casting"
 	},
 	{
 		"name": "Ranch",
 		"uniqueTo": "Piratini",
 		"replaces": "Stable",
-		"food": 3,
-		"percentStatBonus": {"gold": 10},
+		"culture": 2,
+		"percentStatBonus": {"gold": 5},
 		"maintenance": 0,
 		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
