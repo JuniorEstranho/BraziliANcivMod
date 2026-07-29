@@ -44,28 +44,42 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Martyr",
+		"name": "Martyr", //fictitious unit, as they had no official military units
 		"uniqueTo": "Malês",
 		"replaces": "Scout",
+		"unitType": "Scout",
 		"movement": 2,
 		"strength": 5,
-		"rangedStrength": 5,
-		"range": 1,
 		"cost": 25,
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "[+300]% Strength <vs cities> <when attacking>"],
-		"promotions": ["Ignore terrain cost"],
+		"uniques": ["May upgrade to [Warrior] through ruins-like effects"],
+		"promotions": ["Ignore terrain cost", "[Martyr] ability"],
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Capoeirista",
+		"name": "Dutch Merchant", //fictitious unit, as they had no official military units
+		"uniqueTo": "New Holland",
+		"replaces": "Great Merchant",
+		"unitType": "Civilian",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+			"[+200]% Gold from Great Merchant trade missions",
+			"[+1] Sight",
+            "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+			"Can instantly construct a [Citadel] improvement <by consuming this unit>",
+            "Is part of Great Person group [Great Person]",
+            "[This Unit] gets a name from the [Merchant] group",
+			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+	{
+		"name": "Capoeirista", //fictitious unit, as they had no official military units
 		"uniqueTo": "Palmares",
 		"replaces": "Warrior",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 8,
-		"cost": 40,
+		"cost": 36,
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Steel",
 		"promotions": ["Martial Arts"],
@@ -82,7 +96,7 @@
 		"cost": 225,
 		"requiredTech": "Rifling",
 		"uniques": ["Ignores terrain cost", "Can move immediately once bought"],
-		"promotions": ["Militia"],
+		"promotions": ["Militia", "Great Generals II"],
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
@@ -97,7 +111,7 @@
 		"cost": 40,
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Gunpowder",
-		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Culture]", "May upgrade to [Spearman] through ruins-like effects"],
 		"promotions": ["Woodsman"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit",
