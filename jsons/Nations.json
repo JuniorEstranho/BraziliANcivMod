@@ -7,7 +7,7 @@
     "preferredVictoryType": "Diplomatic",
     "personality": "Antônio Conselheiro",
 
-    "startIntroPart1": "The great Antônio—the messianic figure. Canudos was a small settlement that existed around 1890, bringing together Indigenous people, the destitute, freed enslaved people, and, above all, the inhabitants of the sertão. Yet our success drew the attention of powerful elites who devastated our settlement — but nothing will ever erase our struggle!",
+    "startIntroPart1": "The great Antônio — the messianic figure. Canudos was a small settlement that existed around 1890, bringing together Indigenous people, the destitute, freed enslaved people, and, above all, the inhabitants of the sertão. Yet our success drew the attention of powerful elites who devastated our settlement — but nothing will ever erase our struggle!",
     "startIntroPart2": "Antônio Conselheiro! Will you manage to create a great settlement that will last for years? Will you manage to help us overcome the challenge of time?",
 
     "declaringWar": "For the sake of faith and the honor of the poorest and weakest, you will be ordered to leave!",
@@ -25,7 +25,7 @@
     "favoredReligion": "Christianity",
     "uniqueName": "O Arraial",
     "uniques": ["Major-State",
-      "[+50]% [Faith] [in capital]",
+      "[+100]% [Culture] from City-States",
       "City-State territory always counts as friendly territory",
       "May buy items in puppet cities",
       "May not annex cities"],
@@ -120,8 +120,8 @@
     "innerColor": [255, 255, 255],
     "favoredReligion": "Islam",
     "uniqueName": "American Levant",
-    "uniques": ["[+1 Production] from every [Plantation]",
-      "Nullifies [Happiness] [in cities being razed]",
+    "uniques": ["[+15]% Strength <for [Military] units> <within [1] tiles of a [{Enemy Land} {pillaged}]>",
+      "Cities are razed [3] as fast",
       "Gain a free [Mosque] [in capital] <after founding a religion>",
       "\"Borrows\" city names from other civilizations in the game"],
     "cities": ["Licutan's Mosque"],
@@ -139,7 +139,7 @@
     "startIntroPart2": "",
 
     "declaringWar": "You're not the same as knew, peace is not a option now.",
-    "attacked": "We not afraid",
+    "attacked": "We will not surrender!",
     "denounced": "We are not afraid, you are wasting time!",
     "defeated": "The Dutch East India Company isn't going to like this news",
     "introduction": "Welcome, You're in The New Netherlands. I am Johan Maurits van Nassau-Siegen, the New Holland Governor.",
@@ -147,7 +147,7 @@
     "neutralHello": "Welcome.",
     "hateHello": "Oh, it's you.",
 
-    "tradeRequest": "Come here, we are talking abou you.",
+    "tradeRequest": "Come here, we are talking about you.",
 
     "outerColor": [243, 151, 9],
     "innerColor": [89, 105, 220],
@@ -155,6 +155,8 @@
     "uniqueName": "Dutch Brazil",
     "uniques": ["[50]% of excess happiness converted to [Gold]",
       "[Gold] cost of purchasing items in cities [-33]%",
+      "[+25]% spy effectiveness [in all cities]",
+      "May not annex cities",
       "[+200]% City-State Influence degradation"],
     "cities": ["Mauritsstad","Frederikstadt", "Nieuw Amsterdam","Saint Louis","São Cristóvão","Fort Schoonenborch","Sirinhaém","Olinda"]
   },
@@ -180,8 +182,8 @@
 
     "tradeRequest": "I've been wondering if this is possible between our peoples.",
 
-    "outerColor": [46, 90, 23],
-    "innerColor": [82, 230, 0],
+    "outerColor": [84, 76, 19],
+    "innerColor": [60, 137, 27],
     "favoredReligion": "Christianity",
     "uniqueName": "Refuge",
     "uniques": ["Comment [Are posible enter in Foreign Land without open borders.]",
@@ -234,7 +236,7 @@
     "startIntroPart2": "",
 
     "declaringWar": "We will not accept all your aggressions. The Tupi people will triumph over your fallen men!",
-    "attacked": "Coward! You won't gain anything from this. The Tupi people are not known for giving up!",
+    "attacked": "Coward! You won't gain anything from this. Our people are not known for giving up!",
     "denounced": "So get out of here!",
     "defeated": "Monster, I curse you, I curse your children, I curse your grandchildren!",
     "introduction": "The Tupi people welcome you. I am Cunhambebe, The Tamoios Chieftain tribe.",
@@ -247,10 +249,9 @@
     "outerColor": [74, 234, 38],
     "innerColor": [41, 66, 223],
     "favoredReligion": "Christianity",
-    "uniqueName": "Body-Painted Warriors",
-    "uniques": ["[+1 Culture] <for every [2] [[Military] Units]>",
-      "Starts with [Archery]",
-      "[-50]% maintenance costs <for [Archery] units>"],
+    "uniqueName": "Our Home",
+    "uniques": ["[-33]% Culture cost of natural border growth [in all cities]",
+      "All healing effects doubled <for [{Military} {Land}] units> <in [{Friendly Land} {Jungle}] tiles>"],
     "cities": ["Yperoig","Tamoio","Tupinambá","Tremembê","Potiguara","Tabajara","Caeté","Tupiniquim","Aimorê","Goitacaz",
       "Temiminó","Guarani","Mawé","Munduruku","Juruna","Arikém","Ramaráma",
       "Awetí","Mondé","Tuparí"]
