@@ -6,7 +6,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Canudos
   rotate: false
-  xy: 485, 161
+  xy: 606, 193
   size: 172, 172
   orig: 100, 100
   offset: 0, 0
@@ -20,134 +20,225 @@ NationIcons/Equador
   index: -1
 NationIcons/Grão-Pará
   rotate: false
-  xy: 0, 0
-  size: 100, 100
+  xy: 574, 564
+  size: 162, 149
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Juliana
   rotate: false
-  xy: 145, 214
-  size: 147,185
+  xy: 2, 374
+  size: 146, 184
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Malês
   rotate: false
-  xy: 292, 344
-  size: 102, 128
+  xy: 782, 147
+  size: 103, 128
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Maranhão
+NationIcons/Piratini
   rotate: false
-  xy: 0, 0
-  size: 100, 100
+  xy: 450, 564
+  size: 120, 166
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Palmares
   rotate: false
-  xy: 175, 441
-  size: 120, 137
+  xy: 782, 2
+  size: 120, 141
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Tupi
   rotate: false
-  xy: 629, 320
-  size: 170, 185
+  xy: 296, 386
+  size: 174, 171
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Black Lancer
   rotate: false
-  xy: 304, 201
-  size: 173, 138
+  xy: 2, 562
+  size: 172, 137
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Capoeirista
   rotate: false
-  xy: 218, 0
+  xy: 410, 2
   size: 182, 199
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Martyr
   rotate: false
-  xy: 175, 441
-  size: 120, 137
+  xy: 782, 2
+  size: 120, 141
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Jagunço
   rotate: false
-  xy: 407, 340
-  size: 187, 165
+  xy: 2, 206
+  size: 184, 164
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Goytacaz Warrior
   rotate: false
-  xy: 0, 529
-  size: 170, 170
+  xy: 2, 703
+  size: 167, 167
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Militiamen
+  rotate: false
+  xy: 596, 2
+  size: 182, 187
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cabano
+  rotate: false
+  xy: 190, 206
+  size: 182, 122
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/BrewPub
   rotate: false
-  xy: 0, 358
-  size: 104, 115
+  xy: 474, 386
+  size: 158, 174
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Quitanda
   rotate: false
-  xy: 407, 0
-  size: 154, 142
+  xy: 410, 205
+  size: 192, 177
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Maloca
   rotate: false
-  xy: 664, 189
-  size: 133, 122
+  xy: 2, 2
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ranch
+  rotate: false
+  xy: 636, 369
+  size: 148, 156
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Arraial
   rotate: false
-  xy: 562, 0
-  size: 117, 150
+  xy: 318, 561
+  size: 128, 166
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Mocambo
   rotate: false
-  xy: 0, 172
-  size: 140, 181
+  xy: 152, 374
+  size: 140, 182
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Ribeirinhos
+  rotate: false
+  xy: 178, 561
+  size: 136, 172
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Caatinga Soldier
   rotate: false
-  xy: 407, 340
-  size: 187, 165
+  xy: 2, 206
+  size: 184, 164
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Martial Arts
   rotate: false
-  xy: 218, 0
+  xy: 410, 2
   size: 182, 199
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Unable to found cities
   rotate: false
-  xy: 701, 0
-  size: 50, 50
+  xy: 206, 2
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Black Lancer
+  rotate: false
+  xy: 782, 279
+  size: 72, 64
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Black Lancer
+  rotate: false
+  xy: 318, 731
+  size: 72, 64
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Capoeirista
+  rotate: false
+  xy: 173, 737
+  size: 72, 64
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Goytacaz Warrior
+  rotate: false
+  xy: 572, 717
+  size: 72, 64
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Jagunço
+  rotate: false
+  xy: 394, 734
+  size: 72, 64
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Black Lancer
+  rotate: false
+  xy: 782, 279
+  size: 72, 64
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Martyr
+  rotate: false
+  xy: 249, 799
+  size: 72, 64
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Militiamen
+  rotate: false
+  xy: 173, 805
+  size: 72, 64
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/
+  rotate: false
+  xy: 782, 279
+  size: 72, 64
   orig: 100, 100
   offset: 0, 0
   index: -1
