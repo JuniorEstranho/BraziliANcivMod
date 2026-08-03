@@ -11,13 +11,13 @@
     "name": "Martial Arts",
     "uniques": ["Can move after attacking"]
   },
-  { //Only for Militiamen
-    "name": "Militia",
-    "uniques": ["[-50]% maintenance costs"]
+  { //Only for Capoeirista
+    "name": "Withdrawal",
+    "uniques": ["Withdraws before melee combat <when below [30] HP>"]
   },
-  { //Only for Grão Pará
-    "name": "Ubá Canoes",
-    "uniques": ["[+100]% Strength <when [Embarked]>", "May attack when embarked"]
+  { //Only for New Holland
+    "name": "Corsair",
+    "uniques": ["May enter foreign tiles without open borders", "[+400]% Yield from pillaging tiles"]
   },
   { //Unable to found cities 
     "name": "Unable to found cities",
