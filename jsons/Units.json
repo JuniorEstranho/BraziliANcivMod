@@ -14,7 +14,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Cabano Guerrilla",
+		"name": "Cabano",
 		"uniqueTo": "Grão Pará",
 		"replaces": "Gatling Gun",
 		"unitType": "Gunpowder",
@@ -22,11 +22,11 @@
 		"strength": 30,
 		"cost": 200,
 		"requiredTech": "Industrialization",
-		"uniques": ["[+100]% Strength <when [Embarked]>", "May attack when embarked"],
-		"promotions": ["Cover I"],
+		"uniques": ["[+100]% Strength <when defending> <when [Embarked]>", "Invisible to non-adjacent units <in [your] tiles>"],
+		"promotions": ["March"],
 		"upgradesTo": "Machine Gun",
 		"obsoleteTech": "Ballistics",
-		"attackSound": "shot"
+		"attackSound": "metalhit"
 	},
 	{
 		"name": "Black Lancer",
@@ -49,7 +49,7 @@
 		"replaces": "Scout",
 		"unitType": "Scout",
 		"movement": 2,
-		"strength": 5,
+		"strength": 6,
 		"cost": 25,
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Scientific Theory",
