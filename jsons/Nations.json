@@ -25,7 +25,9 @@
     "favoredReligion": "Christianity",
     "uniqueName": "O Arraial",
     "uniques": ["Major-State",
-      "[+100]% [Culture] from City-States",
+      "Free Social Policy <upon founding a Pantheon>",
+      "Free Social Policy <upon founding a Religion>",
+      "Free Social Policy <upon enhancing a Religion>",
       "City-State territory always counts as friendly territory",
       "May buy items in puppet cities",
       "May not annex cities"],
@@ -90,7 +92,7 @@
     "innerColor": [16, 16, 16],
     "favoredReligion": "Christianity",
     "uniqueName": "Equality, Freedom and Humanity",
-    "uniques": ["Free Social Policy <upon entering a Golden Age>"],
+    "uniques": ["[-100]% unhappiness from the number of cities"],
     "cities": ["Laguna","Desterro","Blumenau","Itajahy","Tijucas","São Miguel","São José","Tubarão","Joinville","São Francisco do Sul","Paraty",
       "Imarui","Camboriú","Porto Belo","Biguaçu","Palhoça","Brusque","Palmas"],
     "spyNames": ["Giuseppe","Catarina","Wagner","Conrado","Anita","Garibaldi","Frederico","Vincente","Neto"]
@@ -120,8 +122,8 @@
     "innerColor": [255, 255, 255],
     "favoredReligion": "Islam",
     "uniqueName": "American Levant",
-    "uniques": ["[+15]% Strength <for [Military] units> <within [1] tiles of a [{Enemy Land} {pillaged}]>",
-      "Cities are razed [3] as fast",
+    "uniques": ["[+15]% Strength <for [Military] units> <within [2] tiles of a [pillaged]>",
+      "Cities are razed [2] times as fast",
       "Gain a free [Mosque] [in capital] <after founding a religion>",
       "\"Borrows\" city names from other civilizations in the game"],
     "cities": ["Licutan's Mosque"],
@@ -142,7 +144,7 @@
     "attacked": "We will not surrender!",
     "denounced": "We are not afraid, you are wasting time!",
     "defeated": "The Dutch East India Company isn't going to like this news",
-    "introduction": "Welcome, You're in The New Netherlands. I am Johan Maurits van Nassau-Siegen, the New Holland Governor.",
+    "introduction": "Welcome, You're in The New Netherlands. I'm Johan Maurits van Nassau-Siegen, the New Holland Governor.",
 
     "neutralHello": "Welcome.",
     "hateHello": "Oh, it's you.",
@@ -152,12 +154,11 @@
     "outerColor": [243, 151, 9],
     "innerColor": [89, 105, 220],
     "favoredReligion": "Christianity",
-    "uniqueName": "Dutch Brazil",
-    "uniques": ["[50]% of excess happiness converted to [Gold]",
-      "[Gold] cost of purchasing items in cities [-33]%",
-      "[+25]% spy effectiveness [in all cities]",
-      "May not annex cities",
-      "[+200]% City-State Influence degradation"],
+    "uniqueName": "Letter of Marque",
+    "uniques": ["[Water] units gain the [Corsair] promotion",
+      "[{Water} {Melee}] units gain the [Landing Party] promotion",
+      "[+100]% Strength <vs [Land] units> <for [{Water} {Land}] units>",
+      "Earn [300]% of killed [Water] unit's [Cost] as [Gold]",],
     "cities": ["Mauritsstad","Frederikstadt", "Nieuw Amsterdam","Saint Louis","São Cristóvão","Fort Schoonenborch","Sirinhaém","Olinda"]
   },
   {
@@ -182,7 +183,7 @@
 
     "tradeRequest": "I've been wondering if this is possible between our peoples.",
 
-    "outerColor": [84, 76, 19],
+    "outerColor": [84, 44, 23],
     "innerColor": [60, 137, 27],
     "favoredReligion": "Christianity",
     "uniqueName": "Refuge",
@@ -218,9 +219,8 @@
     "innerColor": [0, 171, 78],
     "favoredReligion": "Christianity",
     "uniqueName": "Charisma",
-    "uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Golden Age points]",
-      "When defeating a [City-State] unit, earn [25] Gold and recruit it",
-      "[-25]% XP required for promotions <for [Military] units>"],
+    "uniques": ["[-50]% maintenance costs <for [Gunpowder] units>",
+      "[-50]% XP required for promotions <for [Military] units>"],
     "cities": ["Piratini","Porto Alegre","Rio Grande","Caxias do Sul","Pelotas","Bagé","Alegrete","São Gabriel",
       "Santa Maria","São Borja","Ijuí","Chuí","Erechim","Canoas","Santo Angelo","Jaguarão","Passo Fundo","Viamão"]
   },
@@ -250,10 +250,12 @@
     "innerColor": [41, 66, 223],
     "favoredReligion": "Christianity",
     "uniqueName": "Our Home",
-    "uniques": ["[-33]% Culture cost of natural border growth [in all cities]",
+    "uniques": ["[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
+      "[-25]% Culture cost of natural border growth [in all cities]",
       "All healing effects doubled <for [{Military} {Land}] units> <in [{Friendly Land} {Jungle}] tiles>"],
     "cities": ["Yperoig","Tamoio","Tupinambá","Tremembê","Potiguara","Tabajara","Caeté","Tupiniquim","Aimorê","Goitacaz",
       "Temiminó","Guarani","Mawé","Munduruku","Juruna","Arikém","Ramaráma",
-      "Awetí","Mondé","Tuparí"]
+      "Awetí","Mondé","Tuparí"],
+    "spyNames": ["Aimberê","Ajuricaba","Yara","Tibiriçá","Sepé","Camarão","Arariboia"]
   }
 ]
