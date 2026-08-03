@@ -181,63 +181,49 @@ UnitPromotionIcons/Unable to found cities
   index: -1
 TileSets/HexaRealm/Units/Black Lancer
   rotate: false
-  xy: 782, 279
+  xy: 787, 279
   size: 62, 55
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Black Lancer
+TileSets/HexaRealm/Units/Cabano
   rotate: false
-  xy: 318, 731
+  xy: 323, 731
   size: 62, 55
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Capoeirista
   rotate: false
-  xy: 173, 737
+  xy: 178, 737
   size: 62, 55
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Goytacaz Warrior
   rotate: false
-  xy: 572, 717
+  xy: 579, 717
   size: 62, 55
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Jagunço
   rotate: false
-  xy: 394, 734
-  size: 62, 55
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Black Lancer
-  rotate: false
-  xy: 782, 279
+  xy: 399, 734
   size: 62, 55
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Martyr
   rotate: false
-  xy: 249, 799
+  xy: 254, 799
   size: 62, 55
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Militiamen
   rotate: false
-  xy: 173, 805
-  size: 62, 55
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/
-  rotate: false
-  xy: 782, 279
+  xy: 178, 805
   size: 62, 55
   orig: 100, 100
   offset: 0, 0
