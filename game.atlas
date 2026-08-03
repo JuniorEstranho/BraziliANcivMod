@@ -18,7 +18,7 @@ NationIcons/Equador
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Grão-Pará
+NationIcons/Grão Pará
   rotate: false
   xy: 574, 564
   size: 162, 149
@@ -43,7 +43,7 @@ NationIcons/Piratini
   rotate: false
   xy: 450, 564
   size: 120, 166
-  orig: 100, 100
+  orig: 80, 100
   offset: 0, 0
   index: -1
 NationIcons/Palmares
@@ -134,7 +134,7 @@ BuildingIcons/Ranch
   rotate: false
   xy: 636, 369
   size: 148, 156
-  orig: 100, 100
+  orig: 80, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Arraial
