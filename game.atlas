@@ -43,7 +43,7 @@ NationIcons/Piratini
   rotate: false
   xy: 450, 564
   size: 120, 166
-  orig: 80, 100
+  orig: 80, 80
   offset: 0, 0
   index: -1
 NationIcons/Palmares
@@ -134,7 +134,7 @@ BuildingIcons/Ranch
   rotate: false
   xy: 636, 369
   size: 148, 156
-  orig: 80, 100
+  orig: 80, 80
   offset: 0, 0
   index: -1
 ImprovementIcons/Arraial
@@ -181,49 +181,49 @@ UnitPromotionIcons/Unable to found cities
   index: -1
 TileSets/HexaRealm/Units/Black Lancer
   rotate: false
-  xy: 787, 279
+  xy: 792, 279
   size: 62, 55
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Cabano
   rotate: false
-  xy: 323, 731
+  xy: 329, 731
   size: 62, 55
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Capoeirista
   rotate: false
-  xy: 178, 737
+  xy: 183, 737
   size: 62, 55
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Goytacaz Warrior
   rotate: false
-  xy: 579, 717
+  xy: 584, 717
   size: 62, 55
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Jagunço
   rotate: false
-  xy: 399, 734
+  xy: 404, 734
   size: 62, 55
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Martyr
   rotate: false
-  xy: 254, 799
+  xy: 259, 799
   size: 62, 55
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Militiamen
   rotate: false
-  xy: 178, 805
+  xy: 183, 805
   size: 62, 55
   orig: 100, 100
   offset: 0, 0
