@@ -1,7 +1,7 @@
 [
   {
     "name": "[Martyr] ability",
-    "uniques": ["No movement cost to pillage"]
+    "uniques": ["No movement cost to pillage", "Ignores Zone of Control"]
   },
   { //Only for Jagunço
     "name": "Caatinga Soldier",
@@ -13,11 +13,11 @@
   },
   { //Only for Capoeirista
     "name": "Withdrawal",
-    "uniques": ["Withdraws before melee combat <when below [30] HP>"]
+    "uniques": ["Withdraws before melee combat <when below [25] HP>"]
   },
   { //Only for New Holland
-    "name": "Corsair",
-    "uniques": ["May enter foreign tiles without open borders", "[+400]% Yield from pillaging tiles"]
+    "name": "Nassau Privateer",
+    "uniques": ["May enter foreign tiles without open borders", "Earn [100]% of killed [Water] unit's [Cost] as [Gold]", "[+200]% Yield from pillaging tiles"]
   },
   { //Unable to found cities 
     "name": "Unable to found cities",
