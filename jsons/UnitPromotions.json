@@ -5,7 +5,7 @@
   },
   { //Only for Jagunço
     "name": "Caatinga Soldier",
-    "uniques": ["[+33]% Strength <when fighting in [Desert] tiles>", "No defensive terrain penalty"]
+    "uniques": ["[+33]% Strength <when fighting in [Desert] tiles>", "Double movement in [Desert]"]
   },
   { //Only for Capoeirista
     "name": "Martial Arts",
