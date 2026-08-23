@@ -1,11 +1,17 @@
 {
   "name": "BraziliANcivMod",
-  "uniques": [// Major-State Balance
-    "[-20]% maintenance costs <for [Military] units> <for [Major-State] Civilizations>",
-    "Cannot build [Settler] units <for [Major-State] Civilizations>",
-    "[Settler] units gain the [Unable to found cities] promotion <for [Major-State] Civilizations> <when number of [Cities] is more than [0]>",
+  "uniques": [// Non found more than one city
+    "Cannot build [Settler] units <for [Non found more than one city] Civilizations> <hidden from users>",
+    "[Settler] units gain the [Unable to found cities] promotion <for [Non found more than one city] Civilizations> <when number of [Cities] is more than [0]> <hidden from users>",
     // Palmares unique
-    "[+25]% Culture cost of natural border growth [in all cities] <within [3] tiles of a [Palmares]> <for [non-[Palmares]] Civilizations>"],
+    "[+33]% Culture cost of natural border growth [in all cities] <within [5] tiles of a [{Palmares} {City center}]> <for [non-[Palmares]] Civilizations> <hidden from users>",
+    "[-25]% growth [in all cities] <within [5] tiles of a [{Palmares} {City center}]> <for [non-[Palmares]] Civilizations> <hidden from users>",
+    // Malês unique
+    "Rebel units may spawn <if [Rebels Spawn] is constructed> <hidden from users>",
+    "Gain a free [Rebels Spawn] [in capital] <upon declaring war on [Malês] Civilizations> <hidden from users>",
+    "Gain a free [Rebels Spawn] <upon being declared war on by [Malês] Civilizations> <hidden from users>",
+    "Remove [Rebels Spawn] [in capital] <upon signing a peace treaty with [Malês] Civilizations> <hidden from users>"
+],
   "unitUniques": [//Palmares unique
-    "May enter foreign tiles without open borders <for [Palmares] Civilizations>"]
+    "May enter foreign tiles without open borders <for [Palmares] Civilizations> <hidden from users>"]
 }
