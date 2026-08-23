@@ -121,7 +121,7 @@
     "innerColor": [255, 255, 255],
     "favoredReligion": "Islam",
     "uniqueName": "American Levant",
-    "uniques": ["[+1] Movement <for [Land] units> <when at war>",
+    "uniques": ["Comment [Rebel units may spawn in enemies territories when at a war]",
       "Cities are razed [2] times as fast",
       "\"Borrows\" city names from other civilizations in the game"],
     "cities": ["Licutan's Palace"],
