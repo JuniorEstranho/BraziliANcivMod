@@ -25,7 +25,7 @@
 		"uniques": ["[+100]% Strength <when defending> <when [Embarked]>", "[+100]% to Flank Attack bonuses", "[-25]% production cost <when at war>"],
 		"promotions": ["Home Sweet Home"],
 		"upgradesTo": "Great War Infantry",
-		"obsoleteTech": "Ballistics",
+		"obsoleteTech": "Plastics",
 		"attackSound": "metalhit"
 	},
 	{
@@ -47,30 +47,31 @@
 	{
 		"name": "Martyr", //fictitious unit, as they had no official military units
 		"uniqueTo": "Malês",
-		"replaces": "Scout",
-		"unitType": "Scout",
+		"replaces": "Warrior",
+		"unitType": "Sword",
 		"movement": 2,
-		"strength": 6,
-		"cost": 30,
+		"strength": 8,
+		"cost": 40,
 		"requiredTech": "Agriculture",
-		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May upgrade to [Warrior] through ruins-like effects"],
-		"promotions": ["Ignore terrain cost", "[Martyr] ability"],
-		"attackSound": "metalhit"
+		"obsoleteTech": "Steel",
+		"upgradesTo": "Swordsman",
+		"promotions": ["[Martyr] ability"],
+		"attackSound": "metalhit",
 	},
 	{
-		"name": "Zee-Roovers", //they dont have official military units but this work
+		"name": "Mercenary", //they dont have official military units but this work
 		"uniqueTo": "New Holland",
-		"replaces": "Privateer",
-		"unitType": "Melee Water",
-		"movement": 5,
-		"strength": 25,
-		"cost": 150,
-		"requiredTech": "Navigation",
-		"upgradesTo": "Destroyer",
-		"uniques": ["[+1] Sight", "Invisible to non-adjacent units", "Can move after attacking"],
-		"promotions": ["Coastal Raider I", "Coastal Raider II", "[Privateer] ability"],
-		"attackSound": "cannon"
+		"replaces": "Rifleman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 34,
+		"cost": 225,
+		"uniques": ["Can move immediately once bought", "Can be purchased for [150] [Gold] [in all cities]"],
+		"promotions": ["Amphibious"],
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
 	},
 	{
 		"name": "Capoeirista", //fictitious unit, as they had no official military units
@@ -111,7 +112,7 @@
 		"cost": 40,
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Gunpowder",
-		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Culture]", "[+1] Sight", "May upgrade to [Spearman] through ruins-like effects"],
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Culture]", "May upgrade to [Spearman] through ruins-like effects"],
 		"promotions": ["Woodsman"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit",
