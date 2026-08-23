@@ -22,10 +22,10 @@
 		"strength": 30,
 		"cost": 200,
 		"requiredTech": "Industrialization",
-		"uniques": ["[+100]% Strength <when defending> <when [Embarked]>", "[+100]% to Flank Attack bonuses", "[-25]% production cost <when at war>"],
+		"uniques": ["[+100]% Strength <when defending> <when [Embarked]>", "[+100]% to Flank Attack bonuses", "Invisible to non-adjacent units"],
 		"promotions": ["Home Sweet Home"],
-		"upgradesTo": "Great War Infantry",
-		"obsoleteTech": "Plastics",
+		"upgradesTo": "Machine Gun",
+		"obsoleteTech": "Ballistics",
 		"attackSound": "metalhit"
 	},
 	{
@@ -47,31 +47,32 @@
 	{
 		"name": "Martyr", //fictitious unit, as they had no official military units
 		"uniqueTo": "Malês",
-		"replaces": "Warrior",
+		"replaces": "Swordsman",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 8,
-		"cost": 40,
-		"requiredTech": "Agriculture",
-		"obsoleteTech": "Steel",
-		"upgradesTo": "Swordsman",
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Rifling",
+		"requiredResource": "Iron",
+		"uniques": ["Earn [200]% of the damage done to [City] units as [Faith]"],
 		"promotions": ["[Martyr] ability"],
-		"attackSound": "metalhit",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	},
 	{
-		"name": "Mercenary", //they dont have official military units but this work
+		"name": "Zee-Roovers", //they dont have official military units but this work
 		"uniqueTo": "New Holland",
-		"replaces": "Rifleman",
-		"unitType": "Gunpowder",
-		"movement": 2,
-		"strength": 34,
-		"cost": 225,
-		"uniques": ["Can move immediately once bought", "Can be purchased for [150] [Gold] [in all cities]"],
-		"promotions": ["Amphibious"],
-		"requiredTech": "Rifling",
-		"obsoleteTech": "Replaceable Parts",
-		"upgradesTo": "Great War Infantry",
-		"attackSound": "shot"
+		"replaces": "Privateer",
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 25,
+		"cost": 100,
+		"requiredTech": "Navigation",
+		"upgradesTo": "Destroyer",
+		"promotions": ["Coastal Raider I", "[Privateer] ability"],
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Capoeirista", //fictitious unit, as they had no official military units
