@@ -3,7 +3,6 @@
 		"name": "BrewPub",
 		"uniqueTo": "Juliana",
 		"replaces": "Windmill",
-		"happiness": 1,
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
