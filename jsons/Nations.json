@@ -153,10 +153,9 @@
     "innerColor": [89, 105, 220],
     "favoredReligion": "Christianity",
     "uniqueName": "Letter of Marque",
-    "uniques": ["[+3 Gold] from each Trade Route",
-      "[+100]% Strength <vs [Water] units>",
-      "Comment [Upon entering in war, a sum of water units will rebel in enemies territories during the war (if they have a coast)]",
-      "May not build [{Military} {Water}] units"],
+    "uniques": ["[{Military} {Water}] units gain the [Nassau Privateer] promotion",
+      "[{Water} {Melee}] units gain the [Landing Party] promotion",
+      "[-50]% Gold cost of upgrading <for [Water] units>",],
     "cities": ["Mauritsstad","Frederikstadt", "Nieuw Amsterdam","Saint Louis","São Cristóvão","Fort Schoonenborch","Sirinhaém","Olinda"]
   },
   {
