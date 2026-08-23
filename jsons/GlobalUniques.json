@@ -9,7 +9,7 @@
     // Malês unique
     "Rebel units may spawn <if [Rebels Spawn] is constructed> <hidden from users>",
     "Gain a free [Rebels Spawn] [in capital] <upon declaring war on [Malês] Civilizations> <hidden from users>",
-    "Gain a free [Rebels Spawn] <upon being declared war on by [Malês] Civilizations> <hidden from users>",
+    "Gain a free [Rebels Spawn] [in capital] <upon being declared war on by [Malês] Civilizations> <hidden from users>",
     "Remove [Rebels Spawn] [in capital] <upon signing a peace treaty with [Malês] Civilizations> <hidden from users>"
 ],
   "unitUniques": [//Palmares unique
