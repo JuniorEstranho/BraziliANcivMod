@@ -1,7 +1,11 @@
 [
   {
     "name": "[Martyr] ability",
-    "uniques": ["No movement cost to pillage", "Ignores Zone of Control"]
+    "uniques": ["No movement cost to pillage"]
+  },
+  {
+    "name": "[Tamoio Warrior] ability",
+    "uniques": ["[+25]% Strength <when fighting in [Jungle] tiles>","[+25]% Strength <when fighting in [Forest] tiles>"]
   },
   { //Only for Jagunço
     "name": "Caatinga Soldier",
