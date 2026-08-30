@@ -47,19 +47,18 @@
 	{
 		"name": "Martyr", //fictitious unit, as they had no official military units
 		"uniqueTo": "Malês",
-		"replaces": "Swordsman",
+		"replaces": "Longswordsman",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 14,
-		"cost": 75,
-		"requiredTech": "Iron Working",
-		"upgradesTo": "Longswordsman",
-		"obsoleteTech": "Rifling",
+		"strength": 21,
+		"cost": 100,
+		"requiredTech": "Steel",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"uniques": ["Earn [200]% of the damage done to [City] units as [Faith]"],
-		"promotions": ["[Martyr] ability"],
-		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+		"uniques": ["Earn [200]% of the damage done to [City] units as [Faith]", "Can be purchased with [Faith] [in all cities]"],
+		"promotions": ["[Martyr] ability"]
 	},
 	{
 		"name": "Zee-Roovers", //they dont have official military units but this work
@@ -95,27 +94,27 @@
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 34,
-		"cost": 225,
+		"cost": 125,
 		"requiredTech": "Rifling",
-		"uniques": ["Ignores terrain cost", "Can move immediately once bought"],
 		"promotions": ["Great Generals I"],
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
 	},
 	{
-		"name": "Goytacaz Warrior",
+		"name": "Tamoio Warrior",
 		"uniqueTo": "The Tupi",
-		"replaces": "Warrior",
+		"replaces": "Swordsman",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 9,
-		"cost": 40,
-		"requiredTech": "Agriculture",
-		"obsoleteTech": "Gunpowder",
-		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Culture]", "May upgrade to [Spearman] through ruins-like effects"],
-		"promotions": ["Woodsman"],
-		"upgradesTo": "Swordsman",
-		"attackSound": "nonmetalhit",
+		"strength": 15,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"promotions": ["[Tamoio Warrior] ability", "Woodsman"],
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
 	}
 ]
