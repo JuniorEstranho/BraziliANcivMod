@@ -88,7 +88,7 @@ UnitIcons/Jagunço
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Goytacaz Warrior
+UnitIcons/Tamoio Warrior
   rotate: false
   xy: 2, 703
   size: 167, 167
@@ -200,7 +200,7 @@ TileSets/HexaRealm/Units/Capoeirista
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Goytacaz Warrior
+TileSets/HexaRealm/Units/Tamoio Warrior
   rotate: false
   xy: 584, 717
   size: 62, 55
