@@ -54,7 +54,7 @@
 		"cost": 100,
 		"requiredTech": "Steel",
 		"upgradesTo": "Rifleman",
-		"obsoleteTech": "Gunpowder",
+		"obsoleteTech": "Rifling",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 		"uniques": ["Earn [200]% of the damage done to [City] units as [Faith]", "Can be purchased with [Faith] [in all cities]"],
