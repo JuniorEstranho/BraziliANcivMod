@@ -157,7 +157,7 @@
     "favoredReligion": "Christianity",
     "uniqueName": "Letter of Marque",
     "uniques": ["[{Water} {Melee}] units gain the [Landing Party] promotion",
-      "[{Military} {Water}] units gain the [Nassau's Privateer] promotion"],
+      "[{Military} {Water}] units gain the [Nassau Privateer] promotion"],
     "cities": ["Mauritsstad","Frederikstadt", "Nieuw Amsterdam","Saint Louis","São Cristóvão","Fort Schoonenborch","Sirinhaém","Olinda"]
   },
   {
@@ -182,8 +182,8 @@
 
     "tradeRequest": "I've been wondering if this is possible between our peoples.",
 
-    "outerColor": [111, 67, 3],
-    "innerColor": [79, 127, 34],
+    "outerColor": [91, 32, 9],
+    "innerColor": [19, 197, 0],
     "favoredReligion": "Christianity",
     "uniqueName": "Refuge",
     "uniques": ["Comment [May enter in Foreign Land without open borders]",
