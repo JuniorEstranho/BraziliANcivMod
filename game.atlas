@@ -60,6 +60,13 @@ NationIcons/The Tupi
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Xavantes
+  rotate: false
+  xy: 296, 386
+  size: 174, 171
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Black Lancer
   rotate: false
   xy: 2, 562
@@ -151,7 +158,7 @@ ImprovementIcons/Mocambo
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Ribeirinhos
+ImprovementIcons/Stilt House
   rotate: false
   xy: 178, 561
   size: 136, 172
