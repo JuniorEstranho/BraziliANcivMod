@@ -21,7 +21,7 @@
   },
   { //Only for New Holland
     "name": "Nassau Privateer",
-    "uniques": ["May enter foreign tiles without open borders", "Earn [50]% of killed [Water] unit's [Cost] as [Gold]", "[+200]% Yield from pillaging tiles"]
+    "uniques": ["May enter foreign tiles without open borders", "Earn [50]% of killed [Water] unit's [Cost] as [Gold]", "[-50]% Gold cost of upgrading"]
   },
   { //Unable to found cities 
     "name": "Unable to found cities",
