@@ -5,7 +5,7 @@
   },
   {
     "name": "[Tamoio Warrior] ability",
-    "uniques": ["[+25]% Strength <when fighting in [Jungle] tiles>","[+25]% Strength <when fighting in [Forest] tiles>"]
+    "uniques": ["[+33]% Strength <when fighting in [Jungle] tiles>","[+33]% Strength <when fighting in [Forest] tiles>"]
   },
   { //Only for Jagunço
     "name": "Caatinga Soldier",
@@ -21,7 +21,7 @@
   },
   { //Only for New Holland
     "name": "Nassau Privateer",
-    "uniques": ["May enter foreign tiles without open borders", "Earn [100]% of killed [Water] unit's [Cost] as [Gold]", "[+200]% Yield from pillaging tiles"]
+    "uniques": ["May enter foreign tiles without open borders", "Earn [50]% of killed [Water] unit's [Cost] as [Gold]", "[+200]% Yield from pillaging tiles"]
   },
   { //Unable to found cities 
     "name": "Unable to found cities",
