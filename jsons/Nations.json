@@ -24,9 +24,8 @@
     "innerColor": [245, 245, 245],
     "favoredReligion": "Christianity",
     "uniqueName": "O Arraial",
-    "uniques": ["Free [Great Prophet] appears <upon discovering [Theology] technology>",
-      "No damage penalty for wounded units <for [Melee] units>",
-      "May buy [{Military} {Land}] units with [Faith] [in capital]",
+    "uniques": ["Free [Great Prophet] appears <upon discovering [Philosophy] technology>",
+      "[+20]% Strength <when fighting in [your] tiles>",
       "City-State territory always counts as friendly territory",
       "Non found more than one city",
       "May buy items in puppet cities",
@@ -60,7 +59,7 @@
     "innerColor": [0, 0, 128],
     "favoredReligion": "Christianity",
     "uniqueName": "Riverine Guerrilla Warfare",
-    "uniques": ["[+15]% Strength <when fighting in [your] tiles>",
+    "uniques": ["No defensive terrain penalty <for [All] units>",
       "[1] Movement point cost to embark <for [All] units>",
       "[{Military} {Land}] units gain the [Amphibious] promotion"],
     "cities": ["Belém","Ananindeua","Santarém","Parauapebas","Marabá","Castanhal","Bragança","Altamira","Abaetetuba",
@@ -92,7 +91,9 @@
     "innerColor": [16, 16, 16],
     "favoredReligion": "Christianity",
     "uniqueName": "Equality, Freedom and Humanity",
-    "uniques": ["[+2 Happiness] [in all cities]"],
+    "uniques": ["[+2 Happiness] [in all cities]",
+      "[+1 Culture] [in puppeted cities]",
+      "[+2 Culture] [in annexed cities]"],
     "cities": ["Laguna","Desterro","Blumenau","Itajahy","Tijucas","São Miguel","São José","Tubarão","Joinville","São Francisco do Sul","Paraty",
       "Imarui","Camboriú","Porto Belo","Biguaçu","Palhoça","Brusque","Palmas"],
     "spyNames": ["Giuseppe","Catarina","Wagner","Conrado","Anita","Garibaldi","Frederico","Vincente","Neto"]
@@ -119,7 +120,7 @@
 
     "tradeRequest": "This needs to be possible. We'll make sure you don't regret it.",
 
-    "outerColor": [54, 134, 177],
+    "outerColor": [46, 169, 208],
     "innerColor": [255, 255, 255],
     "favoredReligion": "Islam",
     "uniqueName": "American Levant",
@@ -143,7 +144,7 @@
     "declaringWar": "You're not the same as knew, peace is not a option now.",
     "attacked": "We will not surrender!",
     "denounced": "We are not afraid, you are wasting time!",
-    "defeated": "The Dutch East India Company isn't going to like this news",
+    "defeated": "The Dutch West India Company isn't going to like this news",
     "introduction": "Welcome, You're in The New Netherlands. I'm Johan Maurits van Nassau-Siegen, the New Holland Governor.",
 
     "neutralHello": "Welcome.",
@@ -151,13 +152,12 @@
 
     "tradeRequest": "Come here, we are talking about you.",
 
-    "outerColor": [243, 151, 9],
-    "innerColor": [89, 105, 220],
+    "outerColor": [238, 157, 54],
+    "innerColor": [46, 65, 160],
     "favoredReligion": "Christianity",
     "uniqueName": "Letter of Marque",
-    "uniques": ["[{Military} {Water}] units gain the [Nassau Privateer] promotion",
-      "[{Water} {Melee}] units gain the [Landing Party] promotion",
-      "[-50]% Gold cost of upgrading <for [Water] units>",],
+    "uniques": ["[{Water} {Melee}] units gain the [Landing Party] promotion",
+      "[{Military} {Water}] units gain the [Nassau's Privateer] promotion"],
     "cities": ["Mauritsstad","Frederikstadt", "Nieuw Amsterdam","Saint Louis","São Cristóvão","Fort Schoonenborch","Sirinhaém","Olinda"]
   },
   {
@@ -182,14 +182,14 @@
 
     "tradeRequest": "I've been wondering if this is possible between our peoples.",
 
-    "outerColor": [84, 44, 23],
-    "innerColor": [60, 137, 27],
+    "outerColor": [111, 67, 3],
+    "innerColor": [79, 127, 34],
     "favoredReligion": "Christianity",
     "uniqueName": "Refuge",
     "uniques": ["Comment [May enter in Foreign Land without open borders]",
       "Comment [Foreign cities located near cities border, receive a penalty in the cost of natural border growth]",
       "Comment [Foreign cities located near cities border, receive a penalty in the growth population]",
-      "[-33]% enemy spy effectiveness [in all cities]"],
+      "[-25]% enemy spy effectiveness [in all cities]"],
     "cities": ["Macaco","Andalaquituxe","Subupira","Dambrapanga","Osenga","Amaro","Zambi","Tabocas","Gongoro","Aca Inene","Acotirene","Aqualtene"],
     "spyNames": ["Dandara","Ganga","Zumba","Aqualtene","Zé","Chico","Zambi","Caboclo"]
   },
@@ -220,8 +220,8 @@
     "favoredReligion": "Christianity",
     "uniqueName": "Charisma",
     "uniques": ["Great General provides double combat bonus",
-      "[-33]% maintenance costs <for [Military] units>",
-      "[-33]% XP required for promotions <for [Military] units>"],
+      "No damage penalty for wounded units <for [non-[Air]] units>",
+      "[-25]% XP required for promotions <for [Military] units>"],
     "cities": ["Piratini","Porto Alegre","Rio Grande","Caxias do Sul","Pelotas","Bagé","Alegrete","São Gabriel",
       "Santa Maria","São Borja","Ijuí","Chuí","Erechim","Canoas","Santo Angelo","Jaguarão","Passo Fundo","Viamão"]
   },
@@ -252,7 +252,7 @@
     "favoredReligion": "Christianity",
     "uniqueName": "Peabiru Trail",
     "uniques": ["Comment [No maintenance costs for improvements in [Jungle] and [Forest] tiles and just 1 turn for roads & railroads construction time in [Jungle] and [Forest] tiles]",
-      "[+1 Culture] from every [{improved} {Jungle}]", "[+1 Culture] from every [{improved} {Forest}]",
+      "[+2 Culture] from each Trade Route",
       "No Maintenance costs for improvements in [Hill] tiles <hidden from users>", "No Maintenance costs for improvements in [Forest] tiles <hidden from users>",
       "[-99]% construction time for [All Road] improvements <in [Jungle] tiles> <hidden from users>", "[-99]% construction time for [All Road] improvements <in [Forest] tiles> <hidden from users>"],
     "cities": ["Yperoig","Tamoio","Tupinambá","Tremembê","Potiguara","Tabajara","Caeté","Tupiniquim","Aimorê","Goitacaz",
