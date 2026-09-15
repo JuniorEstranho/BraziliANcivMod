@@ -29,19 +29,15 @@
       "Pillaging this improvement yields approximately [+12 Gold]"]
   },
   {
-    "name": "Ribeirinhos",
+    "name": "Stilt House",
     "uniqueTo": "Grão Pará",
-    "terrainsCanBeBuiltOn": ["Grassland","Plains"],
-    "turnsToBuild": 7,
-    "food": 2,
+    "terrainsCanBeBuiltOn": ["Marsh","Flood plains"],
+    "turnsToBuild": 6,
+    "production": 3,
     "techRequired": "Sailing",
     "uniques": ["Gives a defensive bonus of [25]%",
-      "[+2 Gold] <after discovering [Civil Service]>",
-      "[+2 Production] from [Jungle] tiles",
-      "Can only be built on [River] tiles",
-      "Does not need removal of [Jungle]",
+      "[+2 Gold, +1 Culture] <after discovering [Civil Service]>",
       "Cannot be built on [Luxury resource] tiles <hidden from users>",
-      "Cannot be built on [Bonus resource] tiles <hidden from users>",
       "Pillaging this improvement yields approximately [+12 Gold]"]
   }
 ]
