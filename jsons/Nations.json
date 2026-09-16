@@ -106,13 +106,13 @@
     "preferredVictoryType": "Cultural",
     "personality": "Pacífico Licutan",
 
-    "startIntroPart1": "",
-    "startIntroPart2": "",
+    "startIntroPart1": "January 24, 1835. During a early morning in Salvador, more than 600 enslaved africans and freed enslaved - which known as 'malês' - started a revolt against to the govern. setting fire on places, trying to go to the Sugar Mills to contact others slaves to enter in their revolt and freed Pacífico Licutan or 'Bilal' the revolt leader. The guard had to be called to stop the levant; killing and arrest the levantist. but just when the cavalry arrives, the levant has doomed.",
+    "startIntroPart2": "Our spiritual leader, Licutan! Your name are now in history. You need revenge our past and destroy every opression in the way!",
 
     "declaringWar": "I heard that some of my men are rebelling near your border, is that true?",
     "attacked": "If that's the case, we'll go to war; we will not be slaves again!",
     "denounced": "I will have to take drastic measures.",
-    "defeated": "With this fate, I have only one wish: that God forgives you for your choices.",
+    "defeated": "With this fate, I have only one wish - that God forgives you for your choices.",
     "introduction": "May God be with you, I am Pacífico Licutan. The Malês wish you peace.",
 
     "neutralHello": "Greetings.",
@@ -138,13 +138,13 @@
     "preferredVictoryType": "Scientific",
     "personality": "Maurice of Nassau",
 
-    "startIntroPart1": "",
-    "startIntroPart2": "",
+    "startIntroPart1": "Maurice of Nassau - One of Greatest Militaries Leaders from Netherlands. With the Dutch West India Companies help, our navy conquered the richness lands from Brazilian northeast. Founding the New Holland province and the Mauritsstad capital. You sponsored greats reforms on infrastructure, religion, science and arts - the New Holland would go a shine future if the Portugueses dont retakes this rich land.",
+    "startIntroPart2": "Great Nassau, the Dutch crown need you again! The New Holland has a new chance to prove your magnificence to world. Our time are arrived? Will you lead them to victory?",
 
     "declaringWar": "You're not the same as knew, peace is not a option now.",
     "attacked": "We will not surrender!",
     "denounced": "We are not afraid, you are wasting time!",
-    "defeated": "The Dutch West India Company isn't going to like this news",
+    "defeated": "The Dutch West India Company isn't going to like this news...",
     "introduction": "Welcome, You're in The New Netherlands. I'm Johan Maurits van Nassau-Siegen, the New Holland Governor.",
 
     "neutralHello": "Welcome.",
@@ -156,7 +156,8 @@
     "innerColor": [46, 65, 160],
     "favoredReligion": "Christianity",
     "uniqueName": "Letter of Marque",
-    "uniques": ["[{Water} {Melee}] units gain the [Landing Party] promotion",
+    "uniques": ["[+2 Gold] from each Trade Route",
+      "[{Water} {Melee}] units gain the [Landing Party] promotion",
       "[{Military} {Water}] units gain the [Nassau Privateer] promotion"],
     "cities": ["Mauritsstad","Frederikstadt", "Nieuw Amsterdam","Saint Louis","São Cristóvão","Fort Schoonenborch","Sirinhaém","Olinda"]
   },
@@ -204,7 +205,7 @@
     "startIntroPart1": "",
     "startIntroPart2": "",
 
-    "declaringWar": "You wasted my time with your disloyal agreements. I don't need nothing this! Let's make a true agreement, hahaha.",
+    "declaringWar": "You wasted my time with your disloyal agreements. I don't need nothing this! Let's make a true agreement, ha ha ha.",
     "attacked": "You disloyal fool, you don't wanna see what my army can do with your pathetic cities!",
     "denounced": "I don't need the opinion of a backstabber.",
     "defeated": "Maybe if I had more luck...",
