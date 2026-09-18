@@ -1,7 +1,11 @@
 [
   {
+    "name": "[Cabano] ability",
+    "uniques": ["[+100]% Strength <when [Embarked]>", "Invisible to non-adjacent units <when [Embarked]>", "May attack when embarked"]
+  },
+  {
     "name": "[Martyr] ability",
-    "uniques": ["No movement cost to pillage"]
+    "uniques": ["Ignores Zone of Control", "No movement cost to pillage"]
   },
   {
     "name": "[Tamoio Warrior] ability",
