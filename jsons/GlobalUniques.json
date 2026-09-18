@@ -7,10 +7,10 @@
     "[+33]% Culture cost of natural border growth [in all cities] <within [5] tiles of a [{Palmares} {City center}]> <for [non-[Palmares]] Civilizations> <hidden from users>",
     "[-25]% growth [in all cities] <within [5] tiles of a [{Palmares} {City center}]> <for [non-[Palmares]] Civilizations> <hidden from users>",
     // Malês unique
-    "Rebel units may spawn <if [Rebels Spawn] is constructed> <hidden from users>",
+    "Rebel units may spawn <if [Rebels Spawn] is constructed> <when at war> <hidden from users>",
     "Gain a free [Rebels Spawn] [in capital] <upon declaring war on [Malês] Civilizations> <hidden from users>",
     "Gain a free [Rebels Spawn] [in capital] <upon being declared war on by [Malês] Civilizations> <hidden from users>",
-    "Remove [Rebels Spawn] [in capital] <upon signing a peace treaty with [Malês] Civilizations> <hidden from users>"
+    "Remove [Rebels Spawn] [in all cities] <upon signing a peace treaty with [Malês] Civilizations> <hidden from users>"
 ],
   "unitUniques": [//Palmares unique
     "May enter foreign tiles without open borders <for [Palmares] Civilizations> <hidden from users>"]
