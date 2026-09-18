@@ -15,11 +15,10 @@
 		"uniqueTo": "Malês",
 		"replaces": "Market",
 		"gold": 2,
-		"production": 1,
+		"culture": 1,
 		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 0,
-		"percentStatBonus": {"gold": 25},
-		"uniques": ["[+1 Gold] from each Trade Route"],
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25, "production": 5},
 		"requiredTech": "Currency"
 	},
 	{
@@ -27,11 +26,10 @@
 		"uniqueTo": "New Holland",
 		"replaces": "Workshop",
 		"production": 2,
-		"gold": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
-		"uniques": ["[+1 Production] from [Plantation] tiles [in this city]"],
+		"uniques": ["[+1 Production] from [Plantation] tiles [in this city]", "[+1 Gold] from [Strategic resource] tiles [in this city]"],
 		"requiredTech": "Metal Casting"
 	},
 	{
