@@ -25,7 +25,8 @@
     "favoredReligion": "Christianity",
     "uniqueName": "O Arraial",
     "uniques": ["Free [Great Prophet] appears <upon discovering [Philosophy] technology>",
-      "[+20]% Strength <when fighting in [your] tiles>",
+      "[+100]% [Food] from City-States",
+      "[+25]% Strength decreasing with distance from the capital",
       "City-State territory always counts as friendly territory",
       "Non found more than one city",
       "May buy items in puppet cities",
@@ -138,8 +139,8 @@
     "preferredVictoryType": "Scientific",
     "personality": "Maurice of Nassau",
 
-    "startIntroPart1": "Maurice of Nassau - One of Greatest Militaries Leaders from Netherlands. With the Dutch West India Companies help, our navy conquered the richness lands from Brazilian northeast. Founding the New Holland province and the Mauritsstad capital. You sponsored greats reforms on infrastructure, religion, science and arts - the New Holland would go a shine future if the Portugueses dont retakes this rich land.",
-    "startIntroPart2": "Great Nassau, the Dutch crown need you again! The New Holland has a new chance to prove your magnificence to world. Our time are arrived? Will you lead them to victory?",
+    "startIntroPart1": "John Maurice of Nassau - one of greatest militaries leaders from Netherlands. With the Dutch West India Companies help, our navy conquered the richness lands from Brazilian northeast. Founding the New Holland province and the Mauritsstad capital. You sponsored greats reforms on infrastructure, science and arts. Allows the religious tolerance building schools, churches, chapels, synagogues and bridges. The New Holland would go a shine future if the Pernambucan Insurrection dont retaked this rich land.",
+    "startIntroPart2": "Great John Maurice of Nassau! the Dutch crown need you again. The New Holland has a new chance to prove your magnificence to world. Our time are arrived? Will you lead them to victory?",
 
     "declaringWar": "You're not the same as knew, peace is not a option now.",
     "attacked": "We will not surrender!",
@@ -234,8 +235,8 @@
     "preferredVictoryType": "Cultural",
     "personality": "Cunhambebe",
 
-    "startIntroPart1": "",
-    "startIntroPart2": "",
+    "startIntroPart1": "O great chieftain Cunhambebe, great leader of tamoios confederation. The Tupis are indigenous people who lives majority in the coastal brazilian territory - with much tribes like Tamoio, Tupinambá, Tremembê, Potiguara and others. During the colony territory expasion, much conflicts emerged between Indigenous and Portugueses settlers, in one them the 'Tamoios Confederation' with alliances with French and others tribes, you assigned a peace treaty with Portugueses - you protect ourselves from settlers and keep our culture and traditions until the settlers war spirit returned again to haunt us.",
+    "startIntroPart2": "Our time has arrived. Great chieftain of Tamoios. The confederacy needs rise again to show the world our power. You can recreate the great confederation again? Can you convences the tribes to join into confederacy?",
 
     "declaringWar": "We will not accept all your aggressions. The Tupi people will triumph over your fallen men!",
     "attacked": "Coward! You won't gain anything from this. Our people are not known for giving up!",
@@ -253,7 +254,7 @@
     "favoredReligion": "Christianity",
     "uniqueName": "Peabiru Trail",
     "uniques": ["Comment [No maintenance costs for improvements in [Jungle] and [Forest] tiles and just 1 turn for roads & railroads construction time in [Jungle] and [Forest] tiles]",
-      "[+2 Culture] from each Trade Route",
+      "[+3 Culture] from each Trade Route",
       "No Maintenance costs for improvements in [Hill] tiles <hidden from users>", "No Maintenance costs for improvements in [Forest] tiles <hidden from users>",
       "[-99]% construction time for [All Road] improvements <in [Jungle] tiles> <hidden from users>", "[-99]% construction time for [All Road] improvements <in [Forest] tiles> <hidden from users>"],
     "cities": ["Yperoig","Tamoio","Tupinambá","Tremembê","Potiguara","Tabajara","Caeté","Tupiniquim","Aimorê","Goitacaz",
