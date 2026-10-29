@@ -4,10 +4,11 @@
 		"uniqueTo": "Juliana",
 		"replaces": "Windmill",
 		"production": 2,
+		"percentStatBonus": {"food": 10},
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"maintenance": 2,
-		"uniques": ["[+2 Food] from [Wheat] tiles [in this city]", "[+10]% Production when constructing [All] buildings [in this city]"],
+		"uniques": ["[+1 Food] from [Wheat] tiles [in this city]", "[+10]% Production when constructing [All] buildings [in this city]"],
 		"requiredTech": "Economics"
 	},
 	{
@@ -54,11 +55,5 @@
 			"[+1 Production, +1 Gold] from [Horses] tiles [in this city]",
 			"[+1 Production, +1 Food] from [Sheep] tiles [in this city]"],
 		"requiredTech": "Horseback Riding"
-	}, // Others
-	{
-		"name": "Rebels Spawn",
-		"cost": 0,
-		"replacementTextForUniques": "Rebel units will spawn!",
-		"uniques": ["Moves to new capital when capital changes", "Unsellable", "Unbuildable", "Will not be displayed in Civilopedia"]
-	}
+	} // Others
 ]
