@@ -7,7 +7,7 @@
     "[+33]% Culture cost of natural border growth [in all cities] <within [5] tiles of a [{Palmares} {City center}]> <for [non-[Palmares]] Civilizations> <hidden from users>",
     "[-25]% growth [in all cities] <within [5] tiles of a [{Palmares} {City center}]> <for [non-[Palmares]] Civilizations> <hidden from users>",
     // Malês unique
-    "Rebel units may spawn <when number of [Known [{Malês} {Hostile}] Civilizations] is equal to [1]> <hidden from users>"
+    "Rebel units may spawn <when number of [Known [{Malês} {Hostile}] Civilizations] is equal to [1]> <for [non-[Malês]] Civilizations> <hidden from users>"
 ],
   "unitUniques": [//Palmares unique
     "May enter foreign tiles without open borders <for [Palmares] Civilizations> <hidden from users>"]
