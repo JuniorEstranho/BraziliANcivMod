@@ -5,10 +5,11 @@
     "terrainsCanBeBuiltOn": ["Forest","Jungle"],
     "turnsToBuild": 7,
     "production": 1,
-    "techRequired": "Mathematics",
+    "food": 1,
+    "techRequired": "Construction",
     "uniques": ["Gives a defensive bonus of [50]%",
-      "[+1 Production] for each adjacent [Mocambo]",
-      "[+2 Culture] <after discovering [Flight]>",
+      "[+1 Food] for each adjacent [Mocambo]",
+      "[+1 Production] <after discovering [Metal Casting]>",
       "Adjacent enemy units ending their turn take [10] damage",
       "Can be built outside your borders",
       "Pillaging this improvement yields approximately [+16 Gold]"]
@@ -29,14 +30,17 @@
       "Pillaging this improvement yields approximately [+12 Gold]"]
   },
   {
-    "name": "Stilt House",
+    "name": "Huts",
     "uniqueTo": "Grão Pará",
-    "terrainsCanBeBuiltOn": ["Marsh","Flood plains"],
+    "terrainsCanBeBuiltOn": ["Grassland","Plains"],
     "turnsToBuild": 6,
-    "production": 3,
-    "techRequired": "Sailing",
+    "production": 1,
+    "techRequired": "Construction",
     "uniques": ["Gives a defensive bonus of [25]%",
-      "[+2 Gold, +1 Culture] <after discovering [Civil Service]>",
+      "[+1 Production] for each adjacent [Huts]",
+      "Can only be built on [Fresh Water] tiles",
+      "Does not need removal of [Jungle]",
+      "Does not need removal of [Forest]",
       "Cannot be built on [Luxury resource] tiles <hidden from users>",
       "Pillaging this improvement yields approximately [+12 Gold]"]
   }
