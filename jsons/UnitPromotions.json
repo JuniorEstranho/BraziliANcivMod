@@ -1,11 +1,11 @@
 [
   {
     "name": "[Cabano] ability",
-    "uniques": ["[+100]% Strength <when [Embarked]>", "Invisible to non-adjacent units <when [Embarked]>", "May attack when embarked"]
+    "uniques": ["[+100]% Strength <when [Embarked]> <when defending>", "Invisible to non-adjacent units <when [Embarked]>", "May attack when embarked"]
   },
   {
     "name": "[Martyr] ability",
-    "uniques": ["Ignores Zone of Control", "No movement cost to pillage"]
+    "uniques": ["No movement cost to pillage"]
   },
   {
     "name": "[Tamoio Warrior] ability",
@@ -17,7 +17,7 @@
   },
   { //Only for Capoeirista
     "name": "Martial Arts",
-    "uniques": ["Can move after attacking"]
+    "uniques": ["Ignores Zone of Control"]
   },
   { //Only for Capoeirista
     "name": "Withdrawal",
