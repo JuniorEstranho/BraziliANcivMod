@@ -1,18 +1,33 @@
 [
 	{
-		"name": "Great Tuxaua",
-		"uniqueTo": "The Aruak",
+		"name": "Tuxaua",
+		"uniqueTo": "The Arawak",
 		"replaces": "Great General",
 		"unitType": "Civilian",
 		"uniques": [
 			"[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles",
 "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"[+1] Movement <when [Embarked]>",
 			"Can be earned through combat <for [Land] units>",
 "Is part of Great Person group [General]",
-"[This Unit] gets a name from the [General] group",
+"[This Unit] gets a name from the [Tuxaua] group",
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"promotions": ["Woodsman"],
 		"movement": 2
+	},
+	{
+		"name": "River Diver", //fictitious unit, as they had no official military units
+		"uniqueTo": "The Arawak",
+		"replaces": "Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 7,
+		"cost": 36,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost", "Amphibious"],
+		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Jagunço",
@@ -37,7 +52,7 @@
 		"strength": 30,
 		"cost": 200,
 		"requiredTech": "Industrialization",
-		"uniques": ["[+100]% to Flank Attack bonuses"],
+		"uniques": ["[+50]% to Flank Attack bonuses"],
 		"promotions": ["[Cabano] ability"],
 		"upgradesTo": "Machine Gun",
 		"obsoleteTech": "Ballistics",
