@@ -1,5 +1,40 @@
 [
   {
+    "name": "Ajuricaba",
+    "production": 4,
+    "food": 6,
+    "gold": 5,
+    "science": 4,
+    "culture": 6,
+    "happiness": 5,
+    "faith": 4,
+    "military": 7,
+    "aggressive": 5,
+    "declareWar": 6,
+    "commerce": 5,
+    "diplomacy": 6,
+    "loyal": 5,
+    "expansion": 7,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 4,
+      "Liberty": 5,
+      "Honor": 8,
+      "Commerce": 3,
+      "Patronage": 5,
+      "Piety": 4,
+      "Rationalism": 5,
+      "Freedom": 4,
+      "Autocracy": 6,
+      "Order": 6
+    },
+    "civilopediaText": [
+      {
+        "text": "Ajuricaba, the Greatest Tuxaua (Chieftain) from the Manaus tribe. Making rivals tribes be allies with him and wining battles against the Portugueses settlers."
+      }
+    ]
+  },
+  {
     "name": "Antônio Conselheiro",
     "production": 5,
     "food": 5,
@@ -40,7 +75,7 @@
     "food": 5,
     "gold": 6,
     "science": 6,
-    "culture": 5,
+    "culture": 4,
     "happiness": 5,
     "faith": 6,
     "military": 8,
@@ -71,7 +106,7 @@
   },
   {
     "name": "Cunhambebe",
-    "production": 5,
+    "production": 4,
     "food": 8,
     "gold": 3,
     "science": 4,
