@@ -60,7 +60,7 @@
     "innerColor": [0, 0, 128],
     "favoredReligion": "Christianity",
     "uniqueName": "Riverine Guerrilla Warfare",
-    "uniques": ["No defensive terrain penalty <for [All] units>",
+    "uniques": ["No movement cost to pillage <in [River] tiles>",
       "[1] Movement point cost to embark <for [All] units>",
       "[{Military} {Land}] units gain the [Amphibious] promotion"],
     "cities": ["Belém","Ananindeua","Santarém","Parauapebas","Marabá","Castanhal","Bragança","Altamira","Abaetetuba",
@@ -92,9 +92,8 @@
     "innerColor": [16, 16, 16],
     "favoredReligion": "Christianity",
     "uniqueName": "Equality, Freedom and Humanity",
-    "uniques": ["[+2 Happiness] [in all cities]",
-      "[+1 Culture] [in puppeted cities]",
-      "[+2 Culture] [in annexed cities]"],
+    "uniques": ["[+1 Happiness] per [1] social policies adopted",
+      "[+2 Culture] per [2] social policies adopted"],
     "cities": ["Laguna","Desterro","Blumenau","Itajahy","Tijucas","São Miguel","São José","Tubarão","Joinville","São Francisco do Sul","Paraty",
       "Imarui","Camboriú","Porto Belo","Biguaçu","Palhoça","Brusque","Palmas"],
     "spyNames": ["Giuseppe","Catarina","Wagner","Conrado","Anita","Garibaldi","Frederico","Vincente","Neto"]
@@ -222,10 +221,41 @@
     "favoredReligion": "Christianity",
     "uniqueName": "Charisma",
     "uniques": ["Great General provides double combat bonus",
-      "No damage penalty for wounded units <for [non-[Air]] units>",
-      "[-25]% XP required for promotions <for [Military] units>"],
+      "[-50]% maintenance costs <for [Mounted] units>",
+      "[-50]% maintenance costs <for [Gunpowder] units>"],
     "cities": ["Piratini","Porto Alegre","Rio Grande","Caxias do Sul","Pelotas","Bagé","Alegrete","São Gabriel",
       "Santa Maria","São Borja","Ijuí","Chuí","Erechim","Canoas","Santo Angelo","Jaguarão","Passo Fundo","Viamão"]
+  },
+  {
+    "name": "The Aruak",
+    "leaderName": "Ajuricaba",
+    "adjective": ["Aruaks"],
+    "startBias": ["Jungle"],
+    "preferredVictoryType": "Domination",
+    "personality": "Ajuricaba",
+
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+
+    "declaringWar": "It is time for us to stop using dialogue... and move on to something more violent!",
+    "attacked": "C'mon mens! - we need destroy a coward worm!",
+    "denounced": "I am not scared but... ha ha ha... but now you are the one who needs be afraid of me.",
+    "defeated": "Cruel man! It's wasn't good meet you true face. I prefer death to slavery...",
+    "introduction": "Stay on here! wait... you're a warrior? Ha ha i'm sorry for that - welcome to our home.",
+
+    "neutralHello": "Good day.",
+    "hateHello": "Ahh... you...",
+
+    "tradeRequest": "Come here, we want talk with you.",
+
+    "outerColor": [129, 34, 171],
+    "innerColor": [85, 223, 140],
+    "favoredReligion": "Christianity",
+    "uniqueName": "Bravery of Ajuricaba",
+    "uniques": ["Receive [+100]% Gold from Barbarian encampments and pillaging Cities",
+      "Comment [Units can see over obstacles]",
+      "Free [Great Tuxaua] appears <upon discovering [Sailing] technology>"],
+    "cities": ["Mariuá","Baniwa","Kiripapo","Baré","Werekena","Terena","Palicur","Teriana","Apurinã","Yawalapit"]
   },
   {
     "name": "The Tupi",
@@ -260,6 +290,6 @@
     "cities": ["Yperoig","Tamoio","Tupinambá","Tremembê","Potiguara","Tabajara","Caeté","Tupiniquim","Aimorê","Goitacaz",
       "Temiminó","Guarani","Mawé","Munduruku","Juruna","Arikém","Ramaráma",
       "Awetí","Mondé","Tuparí"],
-    "spyNames": ["Aimberê","Ajuricaba","Yara","Tibiriçá","Sepé","Camarão","Arariboia"]
+    "spyNames": ["Aimberê","Tupã","Yara","Tibiriçá","Sepé","Camarão","Arariboia","Anhangá"]
   }
 ]
