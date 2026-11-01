@@ -227,9 +227,9 @@
       "Santa Maria","São Borja","Ijuí","Chuí","Erechim","Canoas","Santo Angelo","Jaguarão","Passo Fundo","Viamão"]
   },
   {
-    "name": "The Aruak",
+    "name": "The Arawak",
     "leaderName": "Ajuricaba",
-    "adjective": ["Aruaks"],
+    "adjective": ["Arawakan"],
     "startBias": ["Jungle"],
     "preferredVictoryType": "Domination",
     "personality": "Ajuricaba",
@@ -249,12 +249,12 @@
     "tradeRequest": "Come here, we want talk with you.",
 
     "outerColor": [129, 34, 171],
-    "innerColor": [85, 223, 140],
+    "innerColor": [116, 199, 43],
     "favoredReligion": "Christianity",
-    "uniqueName": "Bravery of Ajuricaba",
-    "uniques": ["Receive [+100]% Gold from Barbarian encampments and pillaging Cities",
-      "Comment [Units can see over obstacles]",
-      "Free [Great Tuxaua] appears <upon discovering [Sailing] technology>"],
+    "uniqueName": "Waterway Guardian",
+    "uniques": ["[{Military} {Land}] units gain the [Canoes Fleet] promotion",
+      "No Maintenance costs for improvements in [River] tiles",
+      "Free [Tuxaua] appears <upon discovering [Sailing] technology>"],
     "cities": ["Mariuá","Baniwa","Kiripapo","Baré","Werekena","Terena","Palicur","Teriana","Apurinã","Yawalapit"]
   },
   {
