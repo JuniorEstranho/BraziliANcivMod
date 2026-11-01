@@ -10,5 +10,7 @@
     "Rebel units may spawn <when number of [Known [{Malês} {Hostile}] Civilizations] is equal to [1]> <for [non-[Malês]] Civilizations> <hidden from users>"
 ],
   "unitUniques": [//Palmares unique
-    "May enter foreign tiles without open borders <for [Palmares] Civilizations> <hidden from users>"]
+    "May enter foreign tiles without open borders <for [Palmares] Civilizations> <hidden from users>",
+    //The Aruak unique
+    "Can see over obstacles <for [The Aruak] Civilizations> <hidden from users>"]
 }
