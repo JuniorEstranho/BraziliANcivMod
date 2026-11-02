@@ -248,12 +248,12 @@
 
     "tradeRequest": "Come here, we want talk with you.",
 
-    "outerColor": [129, 34, 171],
-    "innerColor": [116, 199, 43],
+    "outerColor": [5, 69, 197],
+    "innerColor": [109, 61, 22],
     "favoredReligion": "Christianity",
-    "uniqueName": "Waterway Guardian",
+    "uniqueName": "Canoes Captain",
     "uniques": ["[{Military} {Land}] units gain the [Canoes Fleet] promotion",
-      "No Maintenance costs for improvements in [River] tiles",
+      "[-50]% maintenance costs <for [Embarked] units>",
       "Free [Tuxaua] appears <upon discovering [Sailing] technology>"],
     "cities": ["Mariuá","Baniwa","Kiripapo","Baré","Werekena","Terena","Palicur","Teriana","Apurinã","Yawalapit"]
   },
