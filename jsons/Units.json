@@ -16,18 +16,19 @@
 		"movement": 2
 	},
 	{
-		"name": "River Diver", //fictitious unit, as they had no official military units
+		"name": "Blowgunner",
 		"uniqueTo": "The Arawak",
-		"replaces": "Scout",
-		"unitType": "Scout",
+		"replaces": "Archer",
+		"unitType": "Archery",
 		"movement": 2,
-		"strength": 7,
-		"cost": 36,
-		"requiredTech": "Agriculture",
-		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
-		"promotions": ["Ignore terrain cost", "Amphibious"],
-		"attackSound": "nonmetalhit"
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"promotions": ["Accuracy I", "Woodsman"],
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
 	},
 	{
 		"name": "Jagunço",
