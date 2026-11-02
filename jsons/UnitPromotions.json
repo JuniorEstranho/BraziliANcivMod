@@ -1,7 +1,7 @@
 [
   {
     "name": "[Cabano] ability",
-    "uniques": ["[+100]% Strength <when [Embarked]> <when defending>", "Double movement in [River]", "Double movement in [Marsh]"]
+    "uniques": ["[+25]% Strength <when fighting in [River] tiles>", "[+100]% Strength <when [Embarked]> <when defending>",]
   },
   {
     "name": "[Martyr] ability",
@@ -25,11 +25,11 @@
   },
   { //Only for New Holland
     "name": "Nassau Privateer",
-    "uniques": ["May enter foreign tiles without open borders", "Earn [50]% of killed [Water] unit's [Cost] as [Gold]", "[-50]% Gold cost of upgrading"]
+    "uniques": ["May enter foreign tiles without open borders", "Earn [25]% of killed [Water] unit's [Strength] as [Gold]", "[-50]% Gold cost of upgrading"]
   },
   { //Only for The Arawak
     "name": "Canoes Fleet",
-    "uniques": ["[+1] Movement <when [Embarked]>", "Double movement in [River]", "May attack when embarked"]
+    "uniques": ["[+1] Movement <when [Embarked]>", "Can move after attacking <when [Embarked]>", "May attack when embarked"]
   },
   { //Unable to found cities 
     "name": "Unable to found cities",
