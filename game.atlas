@@ -48,8 +48,8 @@ NationIcons/Piratini
   index: -1
 NationIcons/Palmares
   rotate: false
-  xy: 782, 2
-  size: 120, 141
+  xy: 2, 2
+  size: 182, 199
   orig: 100, 100
   offset: 0, 0
   index: -1
