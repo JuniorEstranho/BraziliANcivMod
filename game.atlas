@@ -67,6 +67,20 @@ NationIcons/Xavantes
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/The Arawak
+  rotate: false
+  xy: 296, 386
+  size: 174, 171
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Marajoara
+  rotate: false
+  xy: 296, 386
+  size: 174, 171
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Black Lancer
   rotate: false
   xy: 2, 562
