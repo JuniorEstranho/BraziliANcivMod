@@ -43,5 +43,17 @@
       "Does not need removal of [Forest]",
       "Cannot be built on [Luxury resource] tiles <hidden from users>",
       "Pillaging this improvement yields approximately [+12 Gold]"]
+  },
+  {
+    "name": "Mound Building",
+    "uniqueTo": "Marajoara",
+    "terrainsCanBeBuiltOn": ["Grassland","Plains","Marsh"],
+    "turnsToBuild": 7,
+    "food": 3,
+    "techRequired": "Calendar",
+    "uniques": ["[+2 Culture, +1 Gold] <after discovering [Archaeology]>",
+      "Must be next to [Lake]",
+      "Cannot be built on [resource] tiles",
+      "Pillaging this improvement yields approximately [+16 Gold]"]
   }
 ]
