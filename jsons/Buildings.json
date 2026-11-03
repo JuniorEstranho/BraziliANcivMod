@@ -23,6 +23,16 @@
 		"requiredTech": "Currency"
 	},
 	{
+		"name": "Pottery Workshop",
+		"uniqueTo": "Marajoara",
+		"replaces": "Shrine",
+		"faith": 1,
+		"production": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery"
+	},
+	{
 		"name": "Sugar Mill",
 		"uniqueTo": "New Holland",
 		"replaces": "Workshop",
