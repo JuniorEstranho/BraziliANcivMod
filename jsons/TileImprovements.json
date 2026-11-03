@@ -50,9 +50,9 @@
     "terrainsCanBeBuiltOn": ["Grassland","Plains","Marsh"],
     "turnsToBuild": 7,
     "food": 3,
-    "techRequired": "Calendar",
+    "techRequired": "Construction",
     "uniques": ["[+2 Culture, +1 Gold] <after discovering [Archaeology]>",
-      "Must be next to [Lake]",
+      "Must be next to [Lakes]",
       "Cannot be built on [resource] tiles",
       "Pillaging this improvement yields approximately [+16 Gold]"]
   }
