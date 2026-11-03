@@ -106,7 +106,7 @@ UnitIcons/Martyr
   rotate: false
   xy: 372, 2
   size: 64, 190
-  orig: 100, 100
+  orig: 64, 190
   offset: 0, 0
   index: -1
 UnitIcons/Jagunço
@@ -197,7 +197,7 @@ BuildingIcons/Pottery Workshop
   rotate: false
   xy: 196, 203
   size: 142, 175
-  orig: 100, 100
+  orig: 142, 175
   offset: 0, 0
   index: -1
 ImprovementIcons/Arraial
@@ -225,7 +225,7 @@ ImprovementIcons/Mound Building
   rotate: false
   xy: 2, 852
   size: 192, 47
-  orig: 100, 100
+  orig: 192, 42
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Caatinga Soldier
@@ -237,7 +237,7 @@ UnitPromotionIcons/Caatinga Soldier
   index: -1
 UnitPromotionIcons/Martial Arts
   rotate: false
-  xy: 410, 2
+  xy: 2, 2
   size: 182, 199
   orig: 100, 100
   offset: 0, 0
@@ -251,8 +251,8 @@ UnitPromotionIcons/Canoes Fleet
   index: -1
 UnitPromotionIcons/Unable to found cities
   rotate: false
-  xy: 206, 2
-  size: 200, 200
+  xy: 316, 555
+  size: 164, 145
   orig: 100, 100
   offset: 0, 0
   index: -1
@@ -260,7 +260,7 @@ ResourceIcons/Potter
   rotate: false
   xy: 500, 203
   size: 124, 173
-  orig: 100, 100
+  orig: 124, 173
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Black Lancer
