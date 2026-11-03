@@ -120,8 +120,8 @@
 
     "tradeRequest": "This needs to be possible. We'll make sure you don't regret it.",
 
-    "outerColor": [46, 169, 208],
-    "innerColor": [255, 255, 255],
+    "outerColor": [255, 255, 255],
+    "innerColor": [146, 118, 115],
     "favoredReligion": "Islam",
     "uniqueName": "American Levant",
     "uniques": ["Comment [Rebel units may spawn in enemies territories when at a war]",
@@ -129,6 +129,36 @@
       "\"Borrows\" city names from other civilizations in the game"],
     "cities": ["Licutan's Palace"],
     "spyNames": ["Calafate","Sanim","Ahona","Dandará","Bilal","Nicobé","Pacífico","Mahin"]
+  },
+  {
+    "name": "Marajoara",
+    "adjective": ["Marajoara"],
+    "startBias": ["Jungle", "Coast"],
+    "preferredVictoryType": "Cultural",
+    "personality": "Marajoara Leader",
+
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+
+    "declaringWar": "We need to do this — not because of our anger, but because we are afraid of you!",
+    "attacked": "We will destroy every man you'll send!",
+    "denounced": "You scares us!",
+    "defeated": "We will be forgotten, but our works will not.",
+    "introduction": "Welcome to our land, foreigner. You are here to meet our potter works?",
+
+    "neutralHello": "Welcome.",
+    "hateHello": "Oh, it's you!",
+    
+    "tradeRequest": "I need your support."
+
+    "outerColor": [238, 207, 36],
+    "innerColor": [108, 62, 27],
+    "favoredReligion": "Christianity",
+    "uniqueName": "Marajoara Ceramics",
+    "uniques": ["Comment [Provides 1 [Potter] resource per every known nation after discovering [Pottery]]",
+      "Provides [1] [Potter] <for every [Known [Major] Civilizations]> <after discovering [Pottery]> <hidden from users>"],
+    "cities": ["Pacoval","Camutins River","Bichos","Arari Lake","Cuieiras","Guajará",
+      "Furinho","Tezinho","Severino","Anajás River"]
   },
   {
     "name": "New Holland",
@@ -156,8 +186,7 @@
     "innerColor": [46, 65, 160],
     "favoredReligion": "Christianity",
     "uniqueName": "Letter of Marque",
-    "uniques": ["[+2 Gold] from each Trade Route",
-      "[{Water} {Melee}] units gain the [Landing Party] promotion",
+    "uniques": ["[{Water} {Melee}] units gain the [Landing Party] promotion",
       "[{Military} {Water}] units gain the [Nassau Privateer] promotion"],
     "cities": ["Mauritsstad","Frederikstadt", "Nieuw Amsterdam","Saint Louis","São Cristóvão","Fort Schoonenborch","Sirinhaém","Olinda"]
   },
@@ -248,8 +277,8 @@
 
     "tradeRequest": "Come here, we want talk with you.",
 
-    "outerColor": [5, 69, 197],
-    "innerColor": [109, 61, 22],
+    "outerColor": [60, 159, 248],
+    "innerColor": [97, 61, 23],
     "favoredReligion": "Christianity",
     "uniqueName": "Canoes Captain",
     "uniques": ["[{Military} {Land}] units gain the [Canoes Fleet] promotion",
