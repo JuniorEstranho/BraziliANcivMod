@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Potter",
+    "resourceType": "Luxury",
+    "culture": 2,
+    "uniques": ["Excluded from map editor", "Doesn't generate naturally"]
+  }
+]
