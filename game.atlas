@@ -6,7 +6,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Canudos
   rotate: false
-  xy: 606, 193
+  xy: 626, 203
   size: 172, 172
   orig: 100, 100
   offset: 0, 0
@@ -20,28 +20,28 @@ NationIcons/Equador
   index: -1
 NationIcons/Grão Pará
   rotate: false
-  xy: 574, 564
+  xy: 152, 555
   size: 162, 149
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Juliana
   rotate: false
-  xy: 2, 374
+  xy: 622, 2
   size: 146, 184
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Malês
   rotate: false
-  xy: 782, 147
-  size: 103, 128
+  xy: 316, 555
+  size: 164, 145
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Piratini
   rotate: false
-  xy: 450, 564
+  xy: 477, 382
   size: 120, 166
   orig: 80, 80
   offset: 0, 0
@@ -55,8 +55,15 @@ NationIcons/Palmares
   index: -1
 NationIcons/The Tupi
   rotate: false
-  xy: 296, 386
+  xy: 2, 382
   size: 174, 171
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/New Holland
+  rotate: false
+  xy: 186, 2
+  size: 184, 191
   orig: 100, 100
   offset: 0, 0
   index: -1
@@ -69,77 +76,98 @@ NationIcons/Xavantes
   index: -1
 NationIcons/The Arawak
   rotate: false
-  xy: 296, 386
-  size: 174, 171
-  orig: 100, 100
+  xy: 482, 555
+  size: 184, 142
+  orig: 184, 142
   offset: 0, 0
   index: -1
 NationIcons/Marajoara
   rotate: false
-  xy: 296, 386
-  size: 174, 171
+  xy: 668, 555
+  size: 140, 141
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Black Lancer
   rotate: false
-  xy: 2, 562
+  xy: 2, 713
   size: 172, 137
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Capoeirista
   rotate: false
-  xy: 410, 2
+  xy: 2, 2
   size: 182, 199
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Martyr
   rotate: false
-  xy: 782, 2
-  size: 120, 141
+  xy: 372, 2
+  size: 64, 190
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Jagunço
   rotate: false
-  xy: 2, 206
+  xy: 599, 382
   size: 184, 164
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Tamoio Warrior
   rotate: false
-  xy: 2, 703
+  xy: 178, 382
   size: 167, 167
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Militiamen
   rotate: false
-  xy: 596, 2
+  xy: 438, 2
   size: 182, 187
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Cabano
   rotate: false
-  xy: 190, 206
+  xy: 176, 713
   size: 182, 122
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tapuia Archer
+  rotate: false
+  xy: 912, 2
+  size: 134, 178
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tuxaua
+  rotate: false
+  xy: 785, 382
+  size: 156, 164
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Blowgunner
+  rotate: false
+  xy: 360, 713
+  size: 136, 105
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/BrewPub
   rotate: false
-  xy: 474, 386
+  xy: 340, 203
   size: 158, 174
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Quitanda
   rotate: false
-  xy: 410, 205
+  xy: 2, 203
   size: 192, 177
   orig: 100, 100
   offset: 0, 0
@@ -153,29 +181,50 @@ BuildingIcons/Maloca
   index: -1
 BuildingIcons/Ranch
   rotate: false
-  xy: 636, 369
+  xy: 2, 555
   size: 148, 156
-  orig: 80, 80
+  orig: 148, 156
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sugar Mill
+  rotate: false
+  xy: 810, 554
+  size: 135, 141
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Pottery Workshop
+  rotate: false
+  xy: 196, 203
+  size: 142, 175
+  orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Arraial
   rotate: false
-  xy: 318, 561
+  xy: 347, 382
   size: 128, 166
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Mocambo
   rotate: false
-  xy: 152, 374
+  xy: 770, 2
   size: 140, 182
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Huts
   rotate: false
-  xy: 178, 561
+  xy: 800, 203
   size: 136, 172
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Mound Building
+  rotate: false
+  xy: 2, 852
+  size: 192, 47
   orig: 100, 100
   offset: 0, 0
   index: -1
@@ -193,6 +242,13 @@ UnitPromotionIcons/Martial Arts
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitPromotionIcons/Canoes Fleet
+  rotate: false
+  xy: 482, 555
+  size: 184, 142
+  orig: 184, 142
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Unable to found cities
   rotate: false
   xy: 206, 2
@@ -200,52 +256,59 @@ UnitPromotionIcons/Unable to found cities
   orig: 100, 100
   offset: 0, 0
   index: -1
+ResourceIcons/Potter
+  rotate: false
+  xy: 500, 203
+  size: 124, 173
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Black Lancer
   rotate: false
-  xy: 792, 279
-  size: 62, 55
+  xy: 498, 713
+  size: 72, 64
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Cabano
   rotate: false
-  xy: 329, 731
-  size: 62, 55
+  xy: 572, 713
+  size: 72, 64
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Capoeirista
   rotate: false
-  xy: 183, 737
-  size: 62, 55
+  xy: 646, 713
+  size: 72, 64
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Tamoio Warrior
   rotate: false
-  xy: 584, 717
-  size: 62, 55
+  xy: 720, 713
+  size: 72, 64
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Jagunço
   rotate: false
-  xy: 404, 734
-  size: 62, 55
+  xy: 794, 713
+  size: 72, 64
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Martyr
   rotate: false
-  xy: 259, 799
-  size: 62, 55
+  xy: 868, 713
+  size: 72, 64
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Militiamen
   rotate: false
-  xy: 183, 805
-  size: 62, 55
+  xy: 942, 713
+  size: 72, 64
   orig: 100, 100
   offset: 0, 0
   index: -1
