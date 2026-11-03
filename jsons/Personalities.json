@@ -210,6 +210,41 @@
     ]
   },
   {
+    "name": "Marajoara Leader",
+    "production": 7,
+    "food": 7,
+    "gold": 3,
+    "science": 5,
+    "culture": 5,
+    "happiness": 5,
+    "faith": 4,
+    "military": 5,
+    "aggressive": 4,
+    "declareWar": 5,
+    "commerce": 5,
+    "diplomacy": 5,
+    "loyal": 5,
+    "expansion": 4,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 6,
+      "Liberty": 5,
+      "Honor": 5,
+      "Commerce": 5,
+      "Patronage": 3,
+      "Piety": 3,
+      "Rationalism": 5,
+      "Freedom": 5,
+      "Autocracy": 5,
+      "Order": 5
+    },
+    "civilopediaText": [
+      {
+        "text": "They do not have historical leaders because his civilization is low documented..."
+      }
+    ]
+  },
+  {
     "name": "Maurice of Nassau",
     "production": 4,
     "food": 5,
@@ -286,14 +321,14 @@
     "gold": 3,
     "science": 3,
     "culture": 7, 
-    "happiness": 6,
+    "happiness": 5,
     "faith": 3,
     "military": 6,
     "aggressive": 6,
     "declareWar": 5,
     "commerce": 6,
     "diplomacy": 5,
-    "loyal": 6,
+    "loyal": 5,
     "expansion": 5,
     "denounceWillingness": 6,
     "priorities": {
