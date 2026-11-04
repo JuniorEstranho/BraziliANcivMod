@@ -31,7 +31,7 @@
       "Non found more than one city",
       "May buy items in puppet cities",
       "May not annex cities"],
-    "cities": ["Canudos"]
+    "cities": ["Belo Monte"]
   },
   {
     "name": "Grão Pará",
@@ -127,18 +127,18 @@
     "uniques": ["Comment [Rebel units may spawn in enemies territories when at a war]",
       "Cities are razed [2] times as fast",
       "\"Borrows\" city names from other civilizations in the game"],
-    "cities": ["Licutan's Palace"],
+    "cities": ["Licutan's House"],
     "spyNames": ["Calafate","Sanim","Ahona","Dandará","Bilal","Nicobé","Pacífico","Mahin"]
   },
   {
     "name": "Marajoara",
     "adjective": ["Marajoara"],
-    "startBias": ["Jungle", "Coast"],
+    "startBias": ["Lakes"],
     "preferredVictoryType": "Cultural",
     "personality": "Marajoara Leader",
 
-    "startIntroPart1": "",
-    "startIntroPart2": "",
+    "startIntroPart1": "In Marajó Island a unique civilization called Marajoara has born, using mound buildings and the amazonian black earth for produces food and using ceramics for greats ancient artifacts.",
+    "startIntroPart2": "The great Marajoara has much to be explored, we will show our forgotten culture to the world.",
 
     "declaringWar": "We need to do this — not because of our anger, but because we are afraid of you!",
     "attacked": "We will destroy every man you'll send!",
@@ -155,7 +155,9 @@
     "innerColor": [108, 62, 27],
     "favoredReligion": "Christianity",
     "uniqueName": "Marajoara Ceramics",
-    "uniques": ["Comment [Provides 1 [Potter] resource per every known nation after discovering [Pottery]]",
+    "uniques": ["[+1 Gold] from each Trade Route",
+      "Comment [Provides 1 [Potter] resource and +1 [Potter] resource per every known nation, after discovering [Pottery]]",
+      "Provides [1] [Potter] <after discovering [Pottery]> <hidden from users>",
       "Provides [1] [Potter] <for every [Known [Major] Civilizations]> <after discovering [Pottery]> <hidden from users>"],
     "cities": ["Pacoval","Camutins River","Bichos","Arari Lake","Cuieiras","Guajará",
       "Furinho","Tezinho","Severino","Anajás River"]
