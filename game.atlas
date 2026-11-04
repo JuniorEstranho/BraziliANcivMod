@@ -69,7 +69,7 @@ NationIcons/New Holland
   index: -1
 NationIcons/Xavantes
   rotate: false
-  xy: 296, 386
+  xy: 317, 392
   size: 174, 171
   orig: 100, 100
   offset: 0, 0
@@ -175,7 +175,7 @@ BuildingIcons/Quitanda
 BuildingIcons/Maloca
   rotate: false
   xy: 795, 392
-  size: 136, 172
+  size: 182, 166
   orig: 100, 100
   offset: 0, 0
   index: -1
@@ -198,6 +198,13 @@ BuildingIcons/Pottery Workshop
   xy: 627, 205
   size: 142, 175
   orig: 80, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hö
+  rotate: false
+  xy: 795, 392
+  size: 182, 166
+  orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Arraial
