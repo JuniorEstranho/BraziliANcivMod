@@ -18,19 +18,25 @@
 		"gold": 2,
 		"culture": 1,
 		"specialistSlots": {"Merchant": 1},
+		"cost": 75,
 		"hurryCostModifier": 25,
-		"percentStatBonus": {"gold": 25, "production": 5},
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+10]% Production when constructing [{Military} {Land}] units [in this city]"],
 		"requiredTech": "Currency"
 	},
 	{
 		"name": "Pottery Workshop",
 		"uniqueTo": "Marajoara",
-		"replaces": "Shrine",
-		"faith": 1,
-		"production": 1,
-		"cost": 40,
+		"replaces": "Water Mill",
 		"maintenance": 1,
-		"requiredTech": "Pottery"
+		"food": 1,
+		"production": 2,
+		"cost": 50,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be next to [Fresh water]",
+			"Comment [Provides 1 [Porcelain] if [Windmill] is constructed in this city]",
+			"Provides [1] [Porcelain] <if [Windmill] is constructed in all [in this city] cities> <hidden from users>"],
+		"requiredTech": "The Wheel"
 	},
 	{
 		"name": "Sugar Mill",
@@ -39,8 +45,8 @@
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
-		"percentStatBonus": {"production": 10},
-		"uniques": ["[+1 Production] from [Plantation] tiles [in this city]", "[+1 Gold] from [Strategic resource] tiles [in this city]"],
+		"percentStatBonus": {"production": 10, "gold": 10},
+		"uniques": ["[+1 Production] from [Plantation] tiles [in this city]"],
 		"requiredTech": "Metal Casting"
 	},
 	{
