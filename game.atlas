@@ -230,7 +230,7 @@ ImprovementIcons/Mound Building
   index: -1
 UnitPromotionIcons/Caatinga Soldier
   rotate: false
-  xy: 2, 206
+  xy: 3, 567
   size: 184, 164
   orig: 100, 100
   offset: 0, 0
