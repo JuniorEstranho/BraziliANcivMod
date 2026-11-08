@@ -25,7 +25,7 @@
 		"rangedStrength": 7,
 		"cost": 40,
 		"requiredTech": "Archery",
-		"promotions": ["Accuracy I", "Woodsman"],
+		"promotions": ["Woodsman"],
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
@@ -115,7 +115,8 @@
 		"cost": 40,
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Steel",
-		"promotions": ["Martial Arts", "Withdrawal"],
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
+		"promotions": ["Martial Arts", "Woodsman"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit",
 	},
