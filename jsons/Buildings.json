@@ -13,16 +13,27 @@
 	},
 	{
 		"name": "Quitanda",
-		"uniqueTo": "Malês",
+		"uniqueTo": "Bahia",
 		"replaces": "Market",
 		"gold": 2,
+		"happiness": 2,
 		"culture": 1,
 		"specialistSlots": {"Merchant": 1},
 		"cost": 75,
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["[+10]% Production when constructing [{Military} {Land}] units [in this city]"],
 		"requiredTech": "Currency"
+	},
+	{
+		"name": "Rented Room",
+		"uniqueTo": "Malês",
+		"replaces": "Library",
+		"faith": 2,
+		"hurryCostModifier": 25,
+		"cost": 75,
+		"maintenance": 0,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing"
 	},
 	{
 		"name": "Pottery Workshop",
