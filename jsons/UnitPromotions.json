@@ -1,7 +1,7 @@
 [
   {
     "name": "[Cabano] ability",
-    "uniques": ["[+25]% Strength <when fighting in [River] tiles>", "[+100]% Strength <when [Embarked]> <when defending>",]
+    "uniques": ["[+25]% Strength <when fighting in [River] tiles>", "[+100]% Strength <when [Embarked]> <when defending>"]
   },
   {
     "name": "[Martyr] ability",
@@ -17,11 +17,7 @@
   },
   { //Only for Capoeirista
     "name": "Martial Arts",
-    "uniques": ["Ignores Zone of Control"]
-  },
-  { //Only for Capoeirista
-    "name": "Withdrawal",
-    "uniques": ["Withdraws before melee combat <when below [30] HP>"]
+    "uniques": ["[-25]% XP required for promotions", "Ignores Zone of Control"]
   },
   { //Only for New Holland
     "name": "Nassau Privateer",
@@ -33,6 +29,6 @@
   },
   { //Unable to found cities 
     "name": "Unable to found cities",
-    "uniques": ["[This Unit] is destroyed <upon turn end>","Cannot move","No Sight"]
+    "uniques": ["[This Unit] is destroyed <upon turn end>","Cannot move","No Sight", "Will not be displayed in Civilopedia"]
   }
 ]
