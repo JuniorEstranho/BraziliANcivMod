@@ -1,5 +1,38 @@
 [
   {
+    "name": "Bahia",
+    "leaderName": "Francisco Sabino",
+    "adjective": "Bahian",
+    "startBias": ["Coast"],
+    "preferredVictoryType": "Cultural",
+    "personality": "Francisco Sabino",
+
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+
+    "declaringWar": "You have broken our promise - I shall go on the offensive!",
+    "attacked": "This will eventually happen, well it's the day.",
+    "denounced": "This was bound to happen eventually...well, here we go.",
+    "defeated": "Exile? Killing me would be more merciful for us.",
+    "introduction": "Welcome to Bahia. We will ensure a good relationship with you.",
+
+    "neutralHello": "Good day.",
+    "hateHello": "What do you need?!",
+
+    "tradeRequest": "Is this agreement fair by your standards?",
+
+    "outerColor": [69, 181, 249],
+    "InnerColor": [255, 255, 255],
+    "favoredReligion": "Christianity",
+    "uniqueName": "Sabinada",
+    "uniques": ["Comment [Units can move immediately once bought]",
+      "[+33]% Strength for cities <when defending>",
+      "[Great Artist] is earned [50]% faster "],
+    "cities": ["Salvador","Feira de Santana","Alagoinhas","Catu","Santo Antônio de Jesus","Valença","Cachoeira",
+      "Porto Seguro","Ilhéus","Itaparica","Vitória da Conquista","Camaçari","Juazeiro","Macugê",
+      "Rio de Contas","Lauro de Freitas","Itabuna","Barreiras"]
+  },
+  {
     "name": "Canudos",
     "leaderName": "Antônio Conselheiro",
     "adjective": ["Canudense"]
@@ -127,7 +160,7 @@
     "uniques": ["Comment [Rebel units may spawn in enemies territories when at a war]",
       "Cities are razed [2] times as fast",
       "\"Borrows\" city names from other civilizations in the game"],
-    "cities": ["Licutan's House"],
+    "cities": ["Licutan's Rented Room"],
     "spyNames": ["Calafate","Sanim","Ahona","Dandará","Bilal","Nicobé","Pacífico","Mahin"]
   },
   {
@@ -284,7 +317,6 @@
     "favoredReligion": "Christianity",
     "uniqueName": "Canoes Captain",
     "uniques": ["[{Military} {Land}] units gain the [Canoes Fleet] promotion",
-      "[-50]% maintenance costs <for [Embarked] units>",
       "Free [Tuxaua] appears <upon discovering [Sailing] technology>"],
     "cities": ["Mariuá","Baniwa","Kiripapo","Baré","Werekena","Terena","Palicur","Teriana","Apurinã","Yawalapit"]
   },
