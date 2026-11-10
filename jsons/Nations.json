@@ -21,13 +21,13 @@
 
     "tradeRequest": "Is this agreement fair by your standards?",
 
-    "outerColor": [69, 181, 249],
-    "InnerColor": [255, 255, 255],
+    "outerColor": [34, 173, 255],
+    "innerColor": [255, 255, 255],
     "favoredReligion": "Christianity",
     "uniqueName": "Sabinada",
     "uniques": ["Comment [Units can move immediately once bought]",
       "[+33]% Strength for cities <when defending>",
-      "[Great Artist] is earned [50]% faster "],
+      "[Great Artist] is earned [50]% faster"],
     "cities": ["Salvador","Feira de Santana","Alagoinhas","Catu","Santo Antônio de Jesus","Valença","Cachoeira",
       "Porto Seguro","Ilhéus","Itaparica","Vitória da Conquista","Camaçari","Juazeiro","Macugê",
       "Rio de Contas","Lauro de Freitas","Itabuna","Barreiras"]
