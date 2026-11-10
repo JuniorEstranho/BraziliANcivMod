@@ -15,9 +15,21 @@
     "name": "Caatinga Soldier",
     "uniques": ["[+33]% Strength <when fighting in [Desert] tiles>", "Double movement in [Desert]"]
   },
-  { //Only for Capoeirista
-    "name": "Martial Arts",
-    "uniques": ["[-25]% XP required for promotions", "Ignores Zone of Control"]
+  { //Only for Quilombola Warrior
+    "name": "Capoeira I",
+    "uniques": ["[+15]% Strength <vs [Melee] units>"]
+  },
+  {
+    "name": "Capoeira II",
+    "uniques": ["[+33]% to Flank Attack bonuses", "Ignores Zone of Control"],
+    "prerequisites": ["Martial Arts I"],
+    "unitTypes": ["Sword"],
+  },
+  {
+    "name": "Capoeira III",
+    "uniques": ["[1] additional attacks per turn"],
+    "prerequisites": ["Martial Arts II"],
+    "unitTypes": ["Sword"],
   },
   { //Only for New Holland
     "name": "Nassau Privateer",
@@ -25,7 +37,7 @@
   },
   { //Only for The Arawak
     "name": "Canoes Fleet",
-    "uniques": ["[+1] Movement <when [Embarked]>", "Can move after attacking <when [Embarked]>", "May attack when embarked"]
+    "uniques": ["[+1] Movement <when [Embarked]>", "Can move after attacking <when [Melee]> <when [Embarked]>", "May attack when embarked"]
   },
   { //Unable to found cities 
     "name": "Unable to found cities",
