@@ -22,13 +22,13 @@
   {
     "name": "Capoeira II",
     "uniques": ["[+33]% to Flank Attack bonuses", "Ignores Zone of Control"],
-    "prerequisites": ["Martial Arts I"],
+    "prerequisites": ["Capoeira I"],
     "unitTypes": ["Sword"],
   },
   {
     "name": "Capoeira III",
     "uniques": ["[1] additional attacks per turn"],
-    "prerequisites": ["Martial Arts II"],
+    "prerequisites": ["Capoeira II"],
     "unitTypes": ["Sword"],
   },
   { //Only for New Holland
