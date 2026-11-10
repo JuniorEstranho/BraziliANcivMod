@@ -95,7 +95,7 @@ UnitIcons/Black Lancer
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Capoeirista
+UnitIcons/Quilombola Warrior
   rotate: false
   xy: 3, 3
   size: 182, 199
@@ -242,7 +242,7 @@ UnitPromotionIcons/Caatinga Soldier
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Martial Arts
+UnitPromotionIcons/Capoeira
   rotate: false
   xy: 2, 2
   size: 182, 199
@@ -284,7 +284,7 @@ TileSets/HexaRealm/Units/Cabano
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Capoeirista
+TileSets/HexaRealm/Units/Quilombola Warrior
   rotate: false
   xy: 1056, 734
   size: 72, 64
