@@ -52,8 +52,8 @@
 		"cost": 185,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
-		"promotions": ["Formation I","Formation II","Shock I"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Unit will heal every turn, even if it performs an action"],
+		"promotions": ["Formation I","Formation II", "Shock I"],
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "horse"
@@ -89,7 +89,7 @@
 		"attackSound": "arrow",
 	},
 	{
-		"name": "Capoeirista", //fictitious unit, as they had no official military units
+		"name": "Quilombola Warrior",
 		"uniqueTo": "Palmares",
 		"replaces": "Warrior",
 		"unitType": "Sword",
@@ -99,7 +99,7 @@
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Steel",
 		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
-		"promotions": ["Martial Arts", "Woodsman"],
+		"promotions": ["Capoeira I", "Woodsman"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit",
 	},
