@@ -1,34 +1,17 @@
 [
 	{
-		"name": "Tuxaua",
-		"uniqueTo": "The Arawak",
-		"replaces": "Great General",
-		"unitType": "Civilian",
-		"uniques": [
-			"[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles",
-"Can instantly construct a [Citadel] improvement <by consuming this unit>",
-			"[+1] Movement <when [Embarked]>",
-			"Can be earned through combat <for [Land] units>",
-"Is part of Great Person group [General]",
-"[This Unit] gets a name from the [Tuxaua] group",
-			"Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"promotions": ["Woodsman"],
-		"movement": 2
-	},
-	{
-		"name": "Blowgunner",
-		"uniqueTo": "The Arawak",
-		"replaces": "Archer",
-		"unitType": "Archery",
+		"name": "Zuavo Baiano",
+		"uniqueTo": "Bahia",
+		"replaces": "Rifleman",
+		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 5,
-		"rangedStrength": 7,
-		"cost": 40,
-		"requiredTech": "Archery",
-		"promotions": ["Woodsman"],
-		"obsoleteTech": "Construction",
-		"upgradesTo": "Composite Bowman",
-		"attackSound": "arrow"
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Rifling",
+		"promotions": ["Shock I", "Quick Study"],
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
 	},
 	{
 		"name": "Jagunço",
@@ -88,8 +71,8 @@
 		"obsoleteTech": "Rifling",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
-		"uniques": ["Earn [100]% of the damage done to [City] units as [Faith]", "Can be purchased with [Faith] [in all cities]"],
-		"promotions": ["[Martyr] ability"]
+		"uniques": ["Earn [50]% of the damage done to [City] units as [Faith]", "Can be purchased with [Faith] [in all cities]"],
+		"promotions": ["[Martyr] ability", "Besiege"]
 	},
 	{
 		"name": "Tapuia Archer",
@@ -133,6 +116,37 @@
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
+	},
+	{
+		"name": "Tuxaua",
+		"uniqueTo": "The Arawak",
+		"replaces": "Great General",
+		"unitType": "Civilian",
+		"uniques": [
+			"[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles",
+"Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"[+2] Movement <when [Embarked]>",
+			"Can be earned through combat <for [Land] units>",
+"Is part of Great Person group [General]",
+"[This Unit] gets a name from the [Tuxaua] group",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"promotions": ["Woodsman"],
+		"movement": 2
+	},
+	{
+		"name": "Blowgunner",
+		"uniqueTo": "The Arawak",
+		"replaces": "Archer",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"promotions": ["Woodsman"],
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
 	},
 	{
 		"name": "Tamoio Warrior",
